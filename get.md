@@ -2,5 +2,5 @@
 layout: default
 ---
 
-### Test Page
+### Getting Bitcoin
 

@@ -10,7 +10,7 @@ Intro section here
 
 ### Table of Contents
 
-
+*   [Test Link](test.md)
 
 <br/>
 

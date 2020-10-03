@@ -2,4 +2,4 @@
 layout: default
 ---
 
-### Coinjoin
+### Separating your Bitcoin from it's past

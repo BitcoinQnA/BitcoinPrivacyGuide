@@ -20,7 +20,10 @@ Intro section here
 
 
 <br/>
+<br/>
+<br/>
 
+***
 
 *   [By BitcoinQ+A](https://twitter.com/BitcoinQ_A)
 *   [Donate](https://www.bitcoinqna.com/donations)

@@ -10,8 +10,6 @@ Bitcoin privacy is a spectrum that is constantly shifting with different protoco
 
 Lets get started!
 
-<br/>
-
 ## Table of Contents
 
 *   [Sourcing your Bitcoin](get.md)

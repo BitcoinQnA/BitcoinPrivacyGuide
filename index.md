@@ -10,14 +10,17 @@ Intro section here
 
 ### Table of Contents
 
-*   [Test Link](test.md)
+*   [Sourcing your Bitcoin](get.md)
+*   [Securing your Bitcoin](secure.md)
+*   [Separating your Bitcoin from it's past](coinjoin.md)
+*   [Scrutinising your Bitcoin transactions](node.md)
+*   [Safeguarding your Bitcoin](coldstorage.md)
+*   [Segregating your Bitcoin](coincontrol.md)
+*   [Spending your Bitcoin](spend.md)
+
 
 <br/>
 
-### Get in touch
 
-*   [Twitter](https://twitter.com/BitcoinQ_A)
-*   [Telegram](https://t.me/BitcoinQnA)
-*   [Keybase](https://keybase.io/bitcoinqna)
-*   [Email](mailto:bitcoinqna@protonmail.com)
+*   [By BitcoinQ+A](https://twitter.com/BitcoinQ_A)
 *   [Donate](https://www.bitcoinqna.com/donations)

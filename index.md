@@ -33,12 +33,7 @@ Lets get started!
 ***
 
 <p align="center">
-  <a href="https://twitter.com/BitcoinQ_A">By Bitcoin Q+A</a> |
+  <a href="https://twitter.com/BitcoinQ_A">By Bitcoin Q+A</a>
+  <a href="https://www.bitcoinqna.com/donations">Support</a>
   <br><br>
 </p>
-
-  <br><br>
-
-[By BitcoinQ+A](https://twitter.com/BitcoinQ_A) 
-
-[Donate](https://www.bitcoinqna.com/donations)

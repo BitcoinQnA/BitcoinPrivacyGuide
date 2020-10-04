@@ -76,6 +76,8 @@ You can read more on the risks of KYC and what options are available to you [her
   
   <br/>
   
+  ***
+  
   ### Next step...
   
   Now you know how to obtain bitcoin privately, lets [secure it](https://bitcoinprivacy.guide/secure.html).

@@ -52,7 +52,7 @@ There goes a saying in Bitcoin, "not your keys, not your coins". What this essen
   - [Specter Desktop](https://github.com/cryptoadvance/specter-desktop) (*requires your own node*)
   
 
- ### Backup 
+### Backup 
 
 Your bitcoin backup is your bitcoin. Anyone with access to it, has access to your bitcoin. Most people go for some form of [metal](https://jlopp.github.io/metal-bitcoin-storage-reviews/) storage.
 

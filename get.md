@@ -77,6 +77,8 @@ Given these risks it seems logical that step 1 of your Bitcoin privacy journey s
   <br/>
   
   ***
+   
+   <br/>
   
   ### Next step...
   

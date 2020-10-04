@@ -10,6 +10,7 @@ layout: default
 1.  [Why no-KYC?](#why-no-kyc)
 2.  [Where to buy no-KYC?](#where-to-buy-no-kyc)
 3.  [Other options](#other-options)
+4.  [Trade-offs](#trade-offs)
 
 ### Why no-KYC?
 
@@ -73,6 +74,16 @@ Given these risks it seems logical that step 1 of your Bitcoin privacy journey s
 - **Misc**
   - [Earn it]()
   - [Buy in person at a meetup](https://bitcoin-only.com/#meetups)
+  
+  
+### Trade-offs
+
+Whilst buying from a no-KYC source will undoubtedly give you far more privacy, going down this route is not without its limitations. Some of the challenges you may face include...
+
+* Higher premiums for instant purchases (*this can be mitigated by creating your own buy [offers](https://www.bitcoinqna.com/post/creating-a-buy-offer-on-hodl-hodl) and having patience*)
+* You may struggle to buy larger amounts in a single transaction
+* If you are limited to one payment method, liquidity may be limited
+* The user experience is not as easy as centralised KYC offerings
   
   <br/>
   

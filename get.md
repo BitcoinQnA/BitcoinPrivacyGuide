@@ -3,15 +3,15 @@ layout: default
 ---
 <br/>
 
-## Getting Bitcoin
+# Getting Bitcoin
 
-#### Table of Contents
+### Table of Contents
 
 1.  [Why no-KYC?](#why-no-kyc)
 2.  [Where to buy no-KYC?](#where-to-buy-no-kyc)
 3.  [Other options](#other-options)
 
-#### Why no-KYC?
+### Why no-KYC?
 
 KYC or 'Know your customer' is a regulation that any businesses with a banking relationship has to abide by and Bitcoin exchanges are no different. These rules are imposed worldwide and are geared towards ensuring that a business acting as a money exchange and/or transmitter has 'suitable' information on every customer they serve.
 
@@ -27,7 +27,7 @@ So it seems logical that step 1 of your Bitcoin privacy journey should be to ens
 
 You can read more on the risks of KYC and what options are available to you [here](https://bitcoinqna.github.io/noKYConly/). 
 
-#### Where to buy no-KYC?
+### Where to buy no-KYC?
 
 
-#### Other options
+### Other options

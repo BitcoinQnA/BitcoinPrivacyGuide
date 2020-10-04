@@ -3,126 +3,18 @@ layout: default
 ---
 <br/>
 
-### Getting Bitcoin
+## Getting Bitcoin
 
-## Table of Contents
+#### Table of Contents
 
-1.  [Test](#test)
+1.  [Why no-KYC?](#why-no-kyc)
+2.  [Where to buy no-KYC?](#where-to-buy-no-kyc)
+3.  [Other options](#other-options)
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/><br/>
-<br/>
-<br/>
-<br/>
-<br/>
-b
-b
-b
-b
-b
-b
+#### Why no-KYC?
 
 
-
-b
-
-bbb
+#### Where to buy no-KYC?
 
 
-
-b
-b
-b
-b
-b
-b
-
-
-
-
-v
-
-v
-
-v
-
-v
-
-v
-
-v
-
-v
-
-v
-
-v
-
-v
-
-v
-
-v
-
-
-v
-
-v
-
-v
-
-v
-
-v
-
-
-v
-vv
-
-
-vvv
-
-
-
-vvv
-
-
-v
-v
-v
-
-
-v
-
-v
-
-v
-
-
-
-vv
-
-v
-v
-v
-
-
-
-v
-v
-
-
-v
-v
-
-v
-v
-v
-
-
-#### Test
+#### Other options

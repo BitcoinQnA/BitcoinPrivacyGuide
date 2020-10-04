@@ -21,7 +21,7 @@ So what I hear you say! Well now lets imagine that one of your 0.5 BTC was a cha
 
 So how to we mitigate against such a privacy leak? By using a [wallet](https://bitcoinprivacy.guide/secure.html) that offers coin control and labelling. Coin cointrol is a simply the ability to select which UTXOs are used to construct any given transaction. Ensuring that your UTXO's are effectively labelled will enable you to decide which UTXOs you want to include in future transactions based. You can label any way you'd like but it is generally good practice to include the source of the funds somehow.
 
-Sadly, there are very few mobile wallets that offer this functionality and those without it should be used with caution if you value your transactional privacy. Desktop wallets generally offer more in this regard but come with their own tradeoffs.
+Sadly, there are very few mobile wallets that offer this functionality and those without it should be used with caution if you value your transactional privacy. Desktop wallets like [Specter](https://github.com/cryptoadvance/specter-desktop) or [Bitcoin Core](https://bitcoin.org/en/download) generally offer more in this regard but are obviously not a portable solution.
 
 ### Coin control
 
@@ -54,6 +54,8 @@ Sadly, there are very few mobile wallets that offer this functionality and those
 **INSERT FN INSTRUCTIONS**
   
 ### Trade-offs
+
+The only real tradeoffs with labelling your UTXO's and practicing coin control is the minimal extra steps required to do each one. Just remember, if you do not specify with UTXO's to spend, your wallet will do it for you with no regard for each chunk of bitcoins previous history.
 
   
   ***

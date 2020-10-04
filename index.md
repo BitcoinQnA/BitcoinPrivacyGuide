@@ -15,10 +15,10 @@ Lets get started!
 
 1.  [Sourcing your Bitcoin](get.md)
 2.  [Securing your Bitcoin](secure.md)
-3.  [Scrutinising your Bitcoin transactions](node.md)
-4.  [Separating your Bitcoin from it's past](coinjoin.md)
-5.  [Safeguarding your Bitcoin](coldstorage.md)
-6.  [Segregating your Bitcoin](coincontrol.md)
+3.  [Segregating your Bitcoin](coincontrol.md)
+4.  [Scrutinising your Bitcoin transactions](node.md)
+5.  [Separating your Bitcoin from it's past](coinjoin.md)
+6.  [Safeguarding your Bitcoin](coldstorage.md)
 7.  [Spending your Bitcoin](spend.md)
 
   

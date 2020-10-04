@@ -78,8 +78,6 @@ Given these risks it seems logical that step 1 of your Bitcoin privacy journey s
   
   ***
   
-  ### Next step
-  
   Now you know how to obtain bitcoin privately, lets [secure it](https://bitcoinprivacy.guide/secure.html).
   
   

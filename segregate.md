@@ -60,4 +60,4 @@ The only real tradeoffs with labelling your UTXO's and practicing coin control i
   
   ***
   
-  Now you have obtained, secured, segregated and labelled your bitcoin to maximise your privacy, lets [scrutinise it](https://bitcoinprivacy.guide/node.html).
+  Now you have obtained, secured, segregated and labelled your bitcoin to maximise your privacy, lets [scrutinise it](https://bitcoinprivacy.guide/scrutinise.html).

@@ -71,4 +71,4 @@ Holding your own keys is a big responsibility, there are no refunds in Bitcoin.
   
   ***
   
-  Now you know how to obtain secure privately, lets [segregate it](https://bitcoinprivacy.guide/coincontrol.html).
+  Now you know how to obtain secure privately, lets [segregate it](https://bitcoinprivacy.guide/segregate.html).

@@ -3,7 +3,7 @@ layout: default
 ---
 <br/>
 
-# Sourcing Bitcoin
+# Sourcing Your Bitcoin
 
 ### Table of Contents
 

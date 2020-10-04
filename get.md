@@ -10,6 +10,7 @@ layout: default
 1.  [Why no-KYC?](#why-no-kyc)
 2.  [Where to buy no-KYC?](#where-to-buy-no-kyc)
 3.  [Other options](#other-options)
+3.  [Other options](#other-options)
 
 ### Why no-KYC?
 
@@ -29,5 +30,56 @@ You can read more on the risks of KYC and what options are available to you [her
 
 ### Where to buy no-KYC?
 
+#### Easy
+
+1.  Sign up for [Hodl Hodl](https://hodlhodl.com/)
+2.  Click 'Buy BTC'
+3.  Select desired payment method
+4.  Select the offer you wish to take
+5.  Specify the amount you wish to buy (if the seller is offering a range) 
+6.  Enter receive address that you want the bitcoin to be sent to
+7.  Generate an escrow password
+8.  Wait for seller to deposit their bitcoin to the escrow and for 1 confirmation
+9.  Send the funds using your chosen payment method and confirm this on Hodl Hodl
+10. Once the seller confirms receipt of payment, the bitcoin will be sent to your address
+
+
+#### More in-depth
+
+1.  Download [Bisq](https://bisq.network/downloads/) onto your computer and wait for it to sync
+2.  Click on account and add the payment method you intend to use to purchase bitcoin with
+3.  Go to 'Buy BTC' and seearch for sellers offering bitcoin in exchange for your chosen payment method
+4.  Click 'Take Offer'
+5.  Specify the amount you wish to buy (if the seller is offering a range) 
+6.  Fund trade wallet with BTC
+7.  Confirm trade
+8.  Wait for 1 blockchain confirmation
+9.  You will then see sellers payments details to send to
+10. Once the seller confirms receipt of payment, the bitcoin (including your deposit) will be sent to your Bisq wallet
 
 ### Other options
+
+- **Peer to Peer Exchanges**
+  - [LocalCryptos](https://localcryptos.com/)
+  - [Local Coin Swap](https://localcoinswap.com/)
+  - [Agora Desk](https://agoradesk.com/)
+  
+- **ATMs**
+  - [ATMs](https://coinatmradar.com/) *Check for individual KYC requirements*
+
+- **Vouchers**
+  - [Azteco](https://azte.co/index.php#intro)
+  - [LibertyX](https://libertyx.com/)
+  
+  - **Misc**
+  - [Earn it]()
+  - [Buy in person at a meetup](https://bitcoin-only.com/#meetups)
+  
+  <br/>
+  
+  ### Next step...
+  
+  Now you know how to obtain bitcoin privately, lets [secure it](https://bitcoinprivacy.guide/secure.html).
+  
+  
+  

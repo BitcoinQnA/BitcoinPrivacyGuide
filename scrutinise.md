@@ -3,7 +3,7 @@ layout: default
 ---
 <br/>
 
-### Scrutinise your Bitcoin transactions
+## Scrutinise your Bitcoin transactions
 
 ### Table of Contents
 

@@ -13,13 +13,15 @@ Lets get started!
 
 ## Table of Contents
 
-*   [Sourcing your Bitcoin](get.md)
-*   [Securing your Bitcoin](secure.md)
-*   [Scrutinising your Bitcoin transactions](node.md)
-*   [Separating your Bitcoin from it's past](coinjoin.md)
-*   [Safeguarding your Bitcoin](coldstorage.md)
-*   [Segregating your Bitcoin](coincontrol.md)
-*   [Spending your Bitcoin](spend.md)
+1.  [Sourcing your Bitcoin](get.md)
+2.  [Securing your Bitcoin](secure.md)
+3.  [Scrutinising your Bitcoin transactions](node.md)
+4.  [Separating your Bitcoin from it's past](coinjoin.md)
+5.  [Safeguarding your Bitcoin](coldstorage.md)
+6.  [Segregating your Bitcoin](coincontrol.md)
+7.  [Spending your Bitcoin](spend.md)
+
+  
 
 
 <br/>

@@ -35,14 +35,15 @@ There goes a saying in Bitcoin, "not your keys, not your coins". What this essen
 
 ### iOS
 
-1.  Download [Blue Wallet](https://bluewallet.io/)
-2.  Press add now
-3.  Give your wallet a name and select Bitcoin
-4.  Press create
-5.  Write down your recovery words (*it is crucial that you secure this. Without it you cannot access your bitcoin*)
-7.  Open your newly created wallet and press receive
-8.  You will now see your first bitcoin address that you can receive to
+*Fully Noded requires your own node but is currently the only iOS wallet that offers coin control.*
 
+1.  Download [Fully Noded](https://apps.apple.com/gb/app/fully-noded/id1436425586)
+2.  Scan the connection QR provided by your node
+3.  Press the Bitcoin logo followed by the + in the top corner 
+4.  Select single sig
+5.  Write down your recovery words (*it is crucial that you secure this. Without it you cannot access your bitcoin*)
+7.  Press invoice
+8.  You will now see your first bitcoin address that you can receive to
 
 
 ### Other options

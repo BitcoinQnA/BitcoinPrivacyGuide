@@ -3,4 +3,81 @@ layout: default
 ---
 <br/>
 
-### Securing your Bitcoin
+# Securing your Bitcoin
+
+
+### Table of Contents
+
+1.  [Why no-KYC?](#why-no-kyc)
+2.  [Where to buy no-KYC?](#where-to-buy-no-kyc)
+3.  [Other options](#other-options)
+
+### Why no-KYC?
+
+KYC or 'Know your customer' is a regulation that any businesses with a banking relationship has to abide by and Bitcoin exchanges are no different. These rules are imposed worldwide and are geared towards ensuring that a business acting as a money exchange and/or transmitter has 'suitable' information on every customer they serve.
+
+95% of Bitcoin on-ramps today require KYC information. If you purchase through one of these regulated entities, you essentially tag your bitcoin addresses to your personal identity. This makes it much easier for chain surveillance firms, the companies they work with or worse, governments, to potentially... 
+
+* Track your spending habits
+* Prevent you from using other regulated services
+* Confiscate your bitcoin
+* Come after you for tax liabilities
+* Generally know more about you than they should 
+
+So it seems logical that step 1 of your Bitcoin privacy journey should be to ensure that when obtaining bitcoin, the less people that know the better.
+
+You can read more on the risks of KYC and what options are available to you [here](https://bitcoinqna.github.io/noKYConly/). 
+
+### Where to buy no-KYC?
+
+#### Easy
+
+1.  Sign up for [Hodl Hodl](https://hodlhodl.com/)
+2.  Click 'Buy BTC'
+3.  Select desired payment method
+4.  Select the offer you wish to take
+5.  Specify the amount you wish to buy (if the seller is offering a range) 
+6.  Enter receive address that you want the bitcoin to be sent to
+7.  Generate an escrow password
+8.  Wait for seller to deposit their bitcoin to the escrow and for 1 confirmation
+9.  Send the funds using your chosen payment method and confirm this on Hodl Hodl
+10. Once the seller confirms receipt of payment, the bitcoin will be sent to your address
+
+
+#### More in-depth
+
+1.  Download [Bisq](https://bisq.network/downloads/) onto your computer and wait for it to sync
+2.  Click on account and add the payment method you intend to use to purchase bitcoin with
+3.  Go to 'Buy BTC' and seearch for sellers offering bitcoin in exchange for your chosen payment method
+4.  Click 'Take Offer'
+5.  Specify the amount you wish to buy (if the seller is offering a range) 
+6.  Fund trade wallet with BTC
+7.  Confirm trade
+8.  Wait for 1 blockchain confirmation
+9.  You will then see sellers payments details to send to
+10. Once the seller confirms receipt of payment, the bitcoin (including your deposit) will be sent to your Bisq wallet
+
+### Other options
+
+- **Peer to Peer Exchanges**
+  - [LocalCryptos](https://localcryptos.com/)
+  - [Local Coin Swap](https://localcoinswap.com/)
+  - [Agora Desk](https://agoradesk.com/)
+  
+- **ATMs**
+  - [ATMs](https://coinatmradar.com/) *Check for individual KYC requirements*
+
+- **Vouchers**
+  - [Azteco](https://azte.co/index.php#intro)
+  - [LibertyX](https://libertyx.com/)
+  
+- **Misc**
+  - [Earn it]()
+  - [Buy in person at a meetup](https://bitcoin-only.com/#meetups)
+  
+  <br/>
+  
+  ### Next step...
+  
+  Now you know how to store your bitcoin privately, lets [segregate it](https://bitcoinprivacy.guide/coincontrol.html).
+  

@@ -17,8 +17,8 @@ Lets get started!
 2.  [Securing your Bitcoin](secure.md)
 3.  [Segregating your Bitcoin](segregate.md)
 4.  [Scrutinising your Bitcoin transactions](scrutinise.md)
-5.  [Separating your Bitcoin from it's past](coinjoin.md)
-6.  [Safeguarding your Bitcoin](coldstorage.md)
+5.  [Separating your Bitcoin from it's past](separate.md)
+6.  [Safeguarding your Bitcoin](safeguard.md)
 7.  [Spending your Bitcoin](spend.md)
 
   

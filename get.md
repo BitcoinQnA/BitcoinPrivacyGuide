@@ -80,12 +80,10 @@ Given these risks it seems logical that step 1 of your Bitcoin privacy journey s
 
 Whilst buying from a no-KYC source will undoubtedly give you far more privacy, going down this route is not without its limitations. Some of the challenges you may face include...
 
-* Higher premiums for instant purchases (*this can be mitigated by creating your own buy [offers](https://www.bitcoinqna.com/post/creating-a-buy-offer-on-hodl-hodl) and having patience*)
+* Higher premiums for instant purchases (*this can be mitigated by creating your own buy [offer](https://www.bitcoinqna.com/post/creating-a-buy-offer-on-hodl-hodl) and having patience*)
 * You may struggle to buy larger amounts in a single transaction
 * If you are limited to one payment method, liquidity may be limited
 * The user experience is not as easy as centralised KYC offerings
-  
-  <br/>
   
   ***
   

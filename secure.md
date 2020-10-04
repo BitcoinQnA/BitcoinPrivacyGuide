@@ -5,79 +5,69 @@ layout: default
 
 # Securing your Bitcoin
 
-
 ### Table of Contents
 
-1.  [Why no-KYC?](#why-no-kyc)
-2.  [Where to buy no-KYC?](#where-to-buy-no-kyc)
-3.  [Other options](#other-options)
-
-### Why no-KYC?
-
-KYC or 'Know your customer' is a regulation that any businesses with a banking relationship has to abide by and Bitcoin exchanges are no different. These rules are imposed worldwide and are geared towards ensuring that a business acting as a money exchange and/or transmitter has 'suitable' information on every customer they serve.
-
-95% of Bitcoin on-ramps today require KYC information. If you purchase through one of these regulated entities, you essentially tag your bitcoin addresses to your personal identity. This makes it much easier for chain surveillance firms, the companies they work with or worse, governments, to potentially... 
-
-* Track your spending habits
-* Prevent you from using other regulated services
-* Confiscate your bitcoin
-* Come after you for tax liabilities
-* Generally know more about you than they should 
-
-So it seems logical that step 1 of your Bitcoin privacy journey should be to ensure that when obtaining bitcoin, the less people that know the better.
-
-You can read more on the risks of KYC and what options are available to you [here](https://bitcoinqna.github.io/noKYConly/). 
-
-### Where to buy no-KYC?
-
-#### Easy
-
-1.  Sign up for [Hodl Hodl](https://hodlhodl.com/)
-2.  Click 'Buy BTC'
-3.  Select desired payment method
-4.  Select the offer you wish to take
-5.  Specify the amount you wish to buy (if the seller is offering a range) 
-6.  Enter receive address that you want the bitcoin to be sent to
-7.  Generate an escrow password
-8.  Wait for seller to deposit their bitcoin to the escrow and for 1 confirmation
-9.  Send the funds using your chosen payment method and confirm this on Hodl Hodl
-10. Once the seller confirms receipt of payment, the bitcoin will be sent to your address
+1.  [Why secure your own bitcoin?](#why-secure-your-own-bitcoin)
+2.  [Android?](#android)
+3.  [iOS](#ios)
+4.  [Other options](#other-options)
+4.  [Backup](#backup)
+5.  [Trade-offs](#trade-offs)
 
 
-#### More in-depth
+### Why secure your own bitcoin?
 
-1.  Download [Bisq](https://bisq.network/downloads/) onto your computer and wait for it to sync
-2.  Click on account and add the payment method you intend to use to purchase bitcoin with
-3.  Go to 'Buy BTC' and seearch for sellers offering bitcoin in exchange for your chosen payment method
-4.  Click 'Take Offer'
-5.  Specify the amount you wish to buy (if the seller is offering a range) 
-6.  Fund trade wallet with BTC
-7.  Confirm trade
-8.  Wait for 1 blockchain confirmation
-9.  You will then see sellers payments details to send to
-10. Once the seller confirms receipt of payment, the bitcoin (including your deposit) will be sent to your Bisq wallet
+There goes a saying in Bitcoin, "not your keys, not your coins". What this essentially means is that, if you are not in control of your private keys (your recovery/seed words) then your are not in control of your bitcoin. Fortunately, if you are buying from a no-KYC source then you will almost certainly require your own wallet to conduct trades. From a privacy perspective if you do not control your own keys, for example if you have your bitcoin held with a custodian, then you essentially have zero privacy. Whoever controls those keys has the ability to not only see all of your funds, but spend them as they see fit.
+
+[Here](https://www.bit-buy-bit.com/podcast-1/episode/26df4d37/ep35-bitcoin-podcast-with-itcoin-qa) is a podcast episode where I walk through in details the basics of bitcoin wallets.
+
+### Android
+
+1.  Download [Samourai Wallet](https://samouraiwallet.com/download)
+2.  Select mainnet and enable tor
+3.  Start new wallet
+4.  Create a passphrase (*it is crucial that you secure this. Without this and your recovery words you cannot access your bitcoin*)
+5.  Set a pin code
+6.  Write down your recovery words (*it is crucial that you secure this backup. Without this and your passphrase you cannot access your bitcoin*)
+7.  Tap the blue + and then press receive
+8.  You will now see your first bitcoin address that you can receive to
+
+
+### iOS
+
+1.  Download [Blue Wallet](https://bluewallet.io/)
+2.  Press add now
+3.  Give your wallet a name and select Bitcoin
+4.  Press create
+5.  Write down your recovery words (*it is crucial that you secure this. Without it you cannot access your bitcoin*)
+7.  Open your newly created wallet and press receive
+8.  You will now see your first bitcoin address that you can receive to
+
+
 
 ### Other options
 
-- **Peer to Peer Exchanges**
-  - [LocalCryptos](https://localcryptos.com/)
-  - [Local Coin Swap](https://localcoinswap.com/)
-  - [Agora Desk](https://agoradesk.com/)
+- **Desktop Wallets**
+  - [Bitcoin Core](https://bitcoincore.org/en/download/) (*has a built in node*)
+  - [Specter Desktop](https://github.com/cryptoadvance/specter-desktop) (*requires your own node*)
   
-- **ATMs**
-  - [ATMs](https://coinatmradar.com/) *Check for individual KYC requirements*
 
-- **Vouchers**
-  - [Azteco](https://azte.co/index.php#intro)
-  - [LibertyX](https://libertyx.com/)
+ ### Backup 
+
+Your bitcoin backup is your bitcoin. Anyone with access to it, has access to your bitcoin. Most people go for some form of [metal](https://jlopp.github.io/metal-bitcoin-storage-reviews/) storage.
+
+You should ensure that your chosen method of backup is resistant to...
+
+*  Theft/Loss
+*  Fire/Water/Elements damage
+*  Degredation
   
-- **Misc**
-  - [Earn it]()
-  - [Buy in person at a meetup](https://bitcoin-only.com/#meetups)
+### Trade-offs
+
+Unless your chosen wallet is backed by your own node, you are trusting someone elses. This means that your transactional data and wallet balances are being served by someone else, meaning they can theoretically eavesdrop on your on-chain activity. However, most users aren't likely to run a node **before** they even hold their own keys, the natural learning progression doesn't work that way. But dont panic, we will fix that in the next step!
+
+Holding your own keys is a big responsibility, there are no refunds in Bitcoin.
   
-  <br/>
+  ***
   
-  ### Next step...
-  
-  Now you know how to store your bitcoin privately, lets [segregate it](https://bitcoinprivacy.guide/coincontrol.html).
-  
+  Now you know how to obtain secure privately, lets [segregate it](https://bitcoinprivacy.guide/coincontrol.html).

@@ -8,7 +8,7 @@ layout: default
 ### Table of Contents
 
 1.  [Why secure your own bitcoin?](#why-secure-your-own-bitcoin)
-2.  [Android?](#android)
+2.  [Android](#android)
 3.  [iOS](#ios)
 4.  [Other options](#other-options)
 4.  [Backup](#backup)

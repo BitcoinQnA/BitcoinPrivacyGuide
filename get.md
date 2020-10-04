@@ -71,7 +71,7 @@ You can read more on the risks of KYC and what options are available to you [her
   - [Azteco](https://azte.co/index.php#intro)
   - [LibertyX](https://libertyx.com/)
   
-  - **Misc**
+- **Misc**
   - [Earn it]()
   - [Buy in person at a meetup](https://bitcoin-only.com/#meetups)
   

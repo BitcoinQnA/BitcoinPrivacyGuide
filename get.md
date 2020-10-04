@@ -7,7 +7,7 @@ layout: default
 
 ## Table of Contents
 
-1.  [Test](####Test)
+1.  [Test](####test)
 
 <br/>
 <br/>

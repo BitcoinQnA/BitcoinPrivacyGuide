@@ -21,28 +21,18 @@ layout: default
 
 ### Node options
 
-| Difficulty                   | Description                               |  Description                               |
-|------------------------------|-------------------------------------------|--------------------------------------------|
-| Super Easy                             |                                           |                                            |
-| Super Easy                             |                                           |                                            |
-| Super Easy                             |                                           |                                            |
-| Super Easy                             |                                           |                                            |
+| Difficulty    | Description                        | Setup Guide                                                              |
+|---------------|------------------------------------|--------------------------------------------------------------------------|
+| Super Easy    | Bitcoin Core on a computer/laptop  | [Bitcoin Core](https://bitcoin.org/en/full-node#windows-instructions)    |
+| Easy          | myNode one plug + play             | [myNode](http://mynodebtc.com/guide/getting_started)                     |
+| Easy          | Nodl One or Nodl Dojo              | [Nodl](https://docs.lightning-solutions.eu/nodl-box/quick-start/getting-started)  |
+| Easy          | RaspiBlitz pre built               | [RaspiBlitz](https://blog.fulmo.org/raspiblitz-unboxing-experience/)     |
+| Easy          | Start9 Labs plug + play            | [Start9 Labs](https://start9labs.com/faq)                                |
+| More in-depth | myNode DIY                         | [myNode DIY](https://www.youtube.com/watch?v=UYUfXWlAleA&list=PLCRbH-IWlcW0KP8DxyWWrqahGafZyV2HR) |
+| More in-depth | RaspiBlitz DIY                     | [RaspiBlitz DIY](https://github.com/rootzoll/raspiblitz)                 |
+| More in-depth | RoninDojo                          | [RoninDojo](https://wiki.ronindojo.io)                                   |
+| Advanced      | Custom built node (Linux)          | [Example](https://www.youtube.com/watch?v=BIrL1lNsnJQ&list=PLCRbH-IWlcW17JxQ4mdv9DwSMJZlvUOle) |
 
-
-- **Super Easy**
-  - [Bitcoin Core](https://bitcoincore.org/en/download/)
-
-- **Easy - Plug + Play**
-  - [Bitcoin Core](https://bitcoincore.org/en/download/) (*has a built in node*)
-  - [Specter Desktop](https://github.com/cryptoadvance/specter-desktop) (*requires your own node*)
-
-- **More in-depth - DIY**
-  - [Bitcoin Core](https://bitcoincore.org/en/download/) (*has a built in node*)
-  - [Specter Desktop](https://github.com/cryptoadvance/specter-desktop) (*requires your own node*)
-
-#### More in-depth
-  
-  
 
 ### Trade-offs
 

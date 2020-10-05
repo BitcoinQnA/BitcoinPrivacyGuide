@@ -9,7 +9,7 @@ layout: default
 
 1.  [What are we strutinising?](#what-are-we-scrutinising)
 2.  [Node considerations](#node-considerations)
-3.  [Node options](#options)
+3.  [Node options](#node-options)
 4.  [Trade-offs](#trade-offs)
 
 
@@ -21,10 +21,26 @@ layout: default
 
 ### Node options
 
-#### Plug + Play
+| Difficulty                   | Description                               |  Description                               |
+|------------------------------|-------------------------------------------|--------------------------------------------|
+| Super Easy                             |                                           |                                            |
+| Super Easy                             |                                           |                                            |
+| Super Easy                             |                                           |                                            |
+| Super Easy                             |                                           |                                            |
 
 
-#### DIY
+- **Super Easy**
+  - [Bitcoin Core](https://bitcoincore.org/en/download/)
+
+- **Easy - Plug + Play**
+  - [Bitcoin Core](https://bitcoincore.org/en/download/) (*has a built in node*)
+  - [Specter Desktop](https://github.com/cryptoadvance/specter-desktop) (*requires your own node*)
+
+- **More in-depth - DIY**
+  - [Bitcoin Core](https://bitcoincore.org/en/download/) (*has a built in node*)
+  - [Specter Desktop](https://github.com/cryptoadvance/specter-desktop) (*requires your own node*)
+
+#### More in-depth
   
   
 

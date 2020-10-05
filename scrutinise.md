@@ -65,6 +65,8 @@ The main things to consider when choosing a node to run...
 Depending on the setup you go for every node comes with it's own tradeoffs. If you want a plug and play option with study hardware that requires little maintenance, it's going to cost you much more than a DIY option built to a budget spec. Another example would be that Bitcoin Core offers the easiest setup but lacks the ability to allow mobile wallets to connect to it, not good if you want to spend bitcoin when away from your laptop! 
 
 Consider carefully what is important to you before making your decision and don't be afraid to reach out for support. All of the projects mentioned above have very supportive community chat groups that can offer you advice and support.
+
+Running a node is a big step for many but is an absolute must for the ultimate transaction level privacy. 
   
   ***
   

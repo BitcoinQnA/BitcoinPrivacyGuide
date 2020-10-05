@@ -8,7 +8,7 @@ layout: default
 ### Table of Contents
 
 1.  [What is segregation?](#what-is-segregation)
-2.  [Address re-use](#address-reuse)
+2.  [Address re-use](#address-re-use)
 3.  [Coin control](#coin-control)
 4.  [Labelling](#labelling)
 5.  [Trade-offs](#trade-offs)

@@ -21,16 +21,10 @@ Lets get started!
 6.  [Safeguarding your Bitcoin](safeguard.md)
 7.  [Spending your Bitcoin](spend.md)
 
-<br/>
-
-
 
 <p align="center">
-  <img width="500" height="140" src="https://raw.githubusercontent.com/BitcoinQnA/BitcoinPrivacyGuide/master/assets/images/Test%201.png">
+  <img width="500" height="130" src="https://raw.githubusercontent.com/BitcoinQnA/BitcoinPrivacyGuide/master/assets/images/Test%201.png">
 </p>
-
-
-
 
 ***
 

@@ -26,7 +26,7 @@ Lets get started!
 
 
 <p align="center">
-  <img width="600" height="300" src="https://raw.githubusercontent.com/BitcoinQnA/BitcoinPrivacyGuide/master/assets/images/Bitcoin%20Privacy.jpg">
+  <img width="500" height="140" src="https://raw.githubusercontent.com/BitcoinQnA/BitcoinPrivacyGuide/master/assets/images/Test%201.png">
 </p>
 
 

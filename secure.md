@@ -35,7 +35,7 @@ There goes a saying in Bitcoin, "not your keys, not your coins". What this essen
 
 ### iOS
 
-*Fully Noded requires your own node but is currently the only iOS wallet that offers coin control.*
+*Fully Noded requires your own node but is currently the only well tested iOS wallet that offers coin control.*
 
 1.  Download [Fully Noded](https://apps.apple.com/gb/app/fully-noded/id1436425586)
 2.  Scan the connection QR provided by your node

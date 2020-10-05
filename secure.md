@@ -65,7 +65,9 @@ You should ensure that your chosen method of backup is resistant to...
   
 ### Trade-offs
 
-Unless your chosen wallet is backed by your own node, you are trusting someone elses. This means that your transactional data and wallet balances are being served by someone else, meaning they can theoretically eavesdrop on your on-chain activity. However, most users aren't likely to run a node **before** they even hold their own keys, the natural learning progression doesn't work that way. But dont panic, we will fix that later in the guide!
+Unless your chosen wallet is backed by your own node, you are trusting someone elses. This means that your transactional data and wallet balances are being served by someone else, meaning they can theoretically eavesdrop on your on-chain activity. However, most users aren't likely to run a node **before** they even hold their own keys, the natural learning progression doesn't work that way. If you feel confident in setting up your own node first then skip ahead to the [scrutinise](https://bitcoinprivacy.guide/scrutinise.html) section and then come back here to continue with the guide. 
+
+But if that sounds a bit too much for you right now don't panic, we will fix that later in the guide.
 
 Holding your own keys is a big responsibility, there are no refunds in Bitcoin.
   

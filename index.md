@@ -22,12 +22,10 @@ Lets get started!
 7.  [Spending your Bitcoin](spend.md)
 
   
+<p align="center">
+  <img width="560" height="300" src="https://github.com/BitcoinQnA/BitcoinPrivacyGuide/blob/master/assets/images/Bitcoin%20Privacy.png?raw=true">
+</p>
 
-
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 
 ***

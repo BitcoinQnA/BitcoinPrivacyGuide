@@ -23,10 +23,8 @@ Lets get started!
 
   
 <p align="center">
-  <img width="560" height="300" src="https://github.com/BitcoinQnA/BitcoinPrivacyGuide/blob/master/assets/images/Bitcoin%20Privacy.png?raw=true">
+  <img width="560" height="300" src="https://github.com/BitcoinQnA/BitcoinPrivacyGuide/blob/master/assets/images/1.png?raw=true">
 </p>
-
-<br/>
 
 ***
 

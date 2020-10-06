@@ -35,11 +35,11 @@ This is where the separation part comes in... A proper coinjoin implementation w
 
 Samourai Wallet offers the easiest and most effective coinjoin implementation, Whirlpool. Below is a simple walkthrough but to read a more indepth look at it's features see [here](https://www.bitcoinqna.com/post/whirlpool-faq)
 
-1.  Calculate your Whirlpool fees based on your chosen amounts and pool sizes [here](https://www.whirlpoolfees.com/)
+1.  Calculate your Whirlpool [fees](https://www.whirlpoolfees.com/) based on your chosen amounts and pool sizes
 1.  Send some bitcoin into your wallet as outlined [earlier](https://bitcoinprivacy.guide/secure.html#android)
-2.  Click the blue + and then press Whirlpool
+2.  Click the blue + and press Whirlpool
 3.  Once Whirlpool loads, press the icon in the bottom right corner
-4.  Mix UTXO's
+4.  Press mix UTXO's
 5.  Select which UTXO's you want to mix
 6.  Pick how quickly you would like the mix to be initiated
 7.  Review the transaction details

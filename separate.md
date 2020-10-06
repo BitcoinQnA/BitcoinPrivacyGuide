@@ -48,6 +48,14 @@ Samourai Wallet offers the easiest and most effective coinjoin implementation, W
 10. Your mix is now underway and you will see your mixed sats in the postmix section of your wallet after a short wait
 11. If you leave your funds in postmix you will be eligible for free and unlimited remixes (*chosen at random*)
 
+**Bonus**
+
+* For easier mix management and 24/7 remixing ensure you make use of Whirlpool GUI and the Whirlpool CLI implementations that come packaged with myNode, Nodl and RoninDojo. The graphic below is an example of how it all fits together.
+
+<p align="center">
+  <img width="600" height="370" src="https://raw.githubusercontent.com/BitcoinQnA/BitcoinPrivacyGuide/master/assets/images/RD%20Stack.png">
+</p>
+
 
 ### Other options 
 

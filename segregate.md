@@ -9,8 +9,8 @@ layout: default
 
 1.  [What is segregation?](#what-is-segregation)
 2.  [Address re-use](#address-re-use)
-3.  [Coin control](#coin-control)
-4.  [Labelling](#labelling)
+3.  [Android](#android)
+4.  [iOS](#ios)
 5.  [Trade-offs](#trade-offs)
 
 
@@ -28,9 +28,9 @@ Sadly, there are very few mobile wallets that offer this functionality and you s
 
 99% of bitcoin wallets that exist today will automatically serve you a new receive address every time the previous one receives any funds. All you need to be aware of is not sharing the same one twice with different entities as you can leak some privacy for the same reason as outlined in the example above. Remember, addresses are free and infinite.
 
-### Coin control
+### Android
 
-#### Samourai
+#### Samourai - Coin Control
 
 1.  Press the 3 dots in the top right corner
 2.  Show unspent outputs
@@ -39,7 +39,16 @@ Sadly, there are very few mobile wallets that offer this functionality and you s
 5.  Enter the recipient address and amount
 6.  Send
 
-#### Fully Noded
+#### Samourai - Labelling
+
+1.  Press the 3 dots in the top right corner
+2.  Show unspent outputs
+3.  Double tap the UTXO(s) you want to label
+4.  Press add note
+
+### iOS
+
+#### Fully Noded - Coin Control
 
 1.  Tap the active wallet tab
 2.  Tap the "utxo's" button
@@ -49,16 +58,7 @@ Sadly, there are very few mobile wallets that offer this functionality and you s
 6.  FN will check if you have an address copied to cliplboard, if not you can scan a QR to select the recipient address
 7.  Send
 
-### Labelling
-
-#### Samourai
-
-1.  Press the 3 dots in the top right corner
-2.  Show unspent outputs
-3.  Double tap the UTXO(s) you want to label
-4.  Press add note
-
-#### Fully Noded
+#### Fully Noded - Labelling
 
 *FN does labelling via addresses and not UTXOs so you should avoid address manual address reuse* 
 
@@ -69,9 +69,9 @@ Sadly, there are very few mobile wallets that offer this functionality and you s
   
 ### Trade-offs
 
-The only real tradeoffs with labelling your UTXO's and practicing coin control is the minimal extra steps required to do each one. Just remember, if you do not specify with UTXO's to spend, your wallet will do it for you with no regard for each chunk of bitcoins previous history.
+The only real tradeoff with labelling your UTXO's and practicing coin control is the minimal extra steps required to do each one. Just remember, if you do not specify which UTXO's to spend in a transaction, your wallet will do it for you with no regard for each chunk of bitcoins previous history.
 
   
   ***
   
-  Now you have obtained, secured, segregated and labelled your bitcoin to maximise your privacy, lets [scrutinise it](https://bitcoinprivacy.guide/scrutinise.html).
+  Now you have obtained, secured, segregated and labelled your bitcoin to maximise your privacy, lets work on [scrutinising](https://bitcoinprivacy.guide/scrutinise.html) your transactions.

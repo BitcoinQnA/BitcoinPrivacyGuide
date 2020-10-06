@@ -33,7 +33,7 @@ This is where the separation part comes in... A proper coinjoin implementation w
 
 ### Android 
 
-Samourai Wallet offers the easiest and most effective coinjoin implementation, Whirlpool. Below is a simple walkthrough but to read a more indepth look at it's features see [here](https://www.bitcoinqna.com/post/whirlpool-faq)
+Samourai Wallet offers the easiest and most effective coinjoin implementation, Whirlpool. Below is a simple walkthrough but to read a more in-depth look at it's features see [here](https://www.bitcoinqna.com/post/whirlpool-faq)
 
 1.  Calculate your Whirlpool [fees](https://www.whirlpoolfees.com/) based on your chosen amounts and pool sizes
 1.  Send some bitcoin into your wallet as outlined [earlier](https://bitcoinprivacy.guide/secure.html#android)
@@ -49,15 +49,24 @@ Samourai Wallet offers the easiest and most effective coinjoin implementation, W
 11. If you leave your funds in postmix you will be eligible for free and unlimited remixes (*chosen at random*)
 
 
-
 ### Other options 
 
-MENTION NO iOS MIXING
-JOINMARKET LINKS HERE
+#### iOS
+
+There is currently no coinjoin option for iOS. Recommended course of action...
+
+* Buy a cheap android phone
+* Install Samourai Wallet
+* Follow steps above
+
+#### Joinmarket
+
+[Joinmarket](https://en.bitcoin.it/wiki/JoinMarket) is by no means a beginner option, something worth exploring as you become more experienced.
 
 ### Trade-offs
 
- 
+Coinjoin is a complex topic to wrap your head around and frought with pitfalls in which you can leak your privacy. Fortunately, tools like Whirlpool are making things almost fool proof. Coinjoin does not erase the past it simply affords you forward looking privacy. Remember that you can easily undo much of the privacy gained by practicing poor postmix spending habits eg merging multiple UTXOs.
+
   
   ***
   

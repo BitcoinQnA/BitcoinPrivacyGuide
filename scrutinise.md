@@ -48,17 +48,11 @@ The main things to consider when choosing a node to run...
 ### Node options
 
 | Difficulty    | Description                        | Setup Guide                                                              | Works with Samourai or Fully Noded? |
-|---------------|------------------------------------|--------------------------------------------------------------------------|-------------------------------------|
-| Super Easy    | Bitcoin Core on a computer/laptop  | [Bitcoin Core](https://bitcoin.org/en/full-node#windows-instructions)    | No - Core has a built in wallet     |  
-| Easy          | myNode One plug + play             | [myNode](http://mynodebtc.com/guide/getting_started)                     | Both                                |
-| Easy          | Nodl One or Nodl Dojo              | [Nodl](https://docs.lightning-solutions.eu/nodl-box/quick-start/getting-started) | Both                        |
-| Easy          | RaspiBlitz pre built               | [RaspiBlitz](https://blog.fulmo.org/raspiblitz-unboxing-experience/)     | FN only                             |
-| Easy          | Start9 Labs Embassy                | [Start9 Labs](https://start9labs.com/faq)                                | TBC                                 |
-| More in-depth | myNode DIY                         | [myNode DIY](https://www.youtube.com/watch?v=UYUfXWlAleA&list=PLCRbH-IWlcW0KP8DxyWWrqahGafZyV2HR) | Both       |
-| More in-depth | RaspiBlitz DIY                     | [RaspiBlitz DIY](https://github.com/rootzoll/raspiblitz)                 | Fn only                             |
-| More in-depth | RoninDojo DIY                      | [RoninDojo](https://wiki.ronindojo.io)                                   | Both                                |
-| More in-depth | Umbrel DIY                         | [Umbrel](https://github.com/getumbrel/umbrel)                            | FN Only                             |
-| Advanced      | Custom build                       | [Example](https://youtu.be/BIrL1lNsnJQ)                                  | Build dependant                     |
+|---------------|------------------------------------|--------------------------------------------------------------------------|-------------------------------|
+| Super Easy  | Bitcoin Core on a computer | [Bitcoin Core](https://bitcoin.org/en/full-node#windows-instructions)  | No - Built in wallet or works with Specter desktop |   
+| Plug + Play   | myNode One                         | [myNode](http://mynodebtc.com/guide/getting_started)                     | Both                      |
+| Plug + Play   | Nodl One or Nodl Dojo              | [Nodl](https://docs.lightning-solutions.eu/nodl-box/quick-start/getting-started) | Both              |
+| Self build    | RoninDojo DIY                      | [RoninDojo](https://wiki.ronindojo.io)                                   | Both                      |
 
 
 ### Trade-offs

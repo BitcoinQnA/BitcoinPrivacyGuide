@@ -46,7 +46,7 @@ Samourai Wallet and Fully Noded are two of very few mobile wallets that enable t
 3.  Double tap the UTXO(s) you want to label
 4.  Press add note
 
-Your lables in Samourai Wallet are saved automatically in the encrypted backup file that is stored on your phone. If you need to restore your wallet ensure you used this method to retain your labels.
+Your lables in Samourai Wallet are saved automatically in the encrypted backup file that is stored on your phone. If you need to restore your wallet ensure you used this method rather than using your seed words to retain your labels.
 
 ### iOS
 

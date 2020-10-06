@@ -19,20 +19,11 @@ layout: default
 
 
 
-
 [Here](https://www.bit-buy-bit.com/podcast-1/episode/2a64f9e1/ep43-bitcoin-podcast-with-bitcoin-qa-coinjoin) is a podcast episode where I talk through the basics of coinjoin.
 
 ### Coinjoin considerations
 
-The main things to consider when choosing a node to run...
 
-*  Your technical ability
-*  Your budget
-*  What [features](https://www.bitcoinqna.com/nodecompare) you require
-*  Running costs
-*  Bandwidth
-*  The level of support/community available
-*  Wallet compatability
 
 
 ### Coinjoin options

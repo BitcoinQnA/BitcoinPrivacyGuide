@@ -14,12 +14,26 @@ layout: default
 
 
 ### Spending considerations
-  
+
+Spending your bitcoin can be a tricky task to get right from a privacy perspective. Fortunately if you have followed the previous steps you are in a perfect position to nail it. We have already covered off many of the pitfalls such as merging UTXOs, particularly those from 'conflicting' sources such as KYC and no-KYC but here is a breif rundown of things to consider when spending bitcoin (even to yourself).
+
+* Check your labels before spending
+* Avoid merging UTXOs wherever possible
+* Label your change outputs
+* Make every spend a coinjoin (*see below*)
+
 
 ### Android 
 
 **Samourai Wallet Postmix Tools**
 
+* Stonewall
+
+* Stonewall X2
+
+* Stowaway
+
+* Ricochet
 
 
 ### iOS

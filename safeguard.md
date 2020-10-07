@@ -23,7 +23,7 @@ Cold storage refers to a method of bitcoin storage that has never touched the in
 
 ### Desktop Node Version
 
-**Specter + Bitcoin Core + Coldcard**
+**Bitcoin Core + Specter Desktop + Coldcard**
 
 1.  Setup your [Coldcard](https://coldcardwallet.com/docs/quick)
 2.  Download [Bitcoin Core](https://bitcoin.org/en/download)
@@ -46,6 +46,8 @@ Cold storage refers to a method of bitcoin storage that has never touched the in
 
 ### Plug + Play Node Version
 
+**myNode One + Specter + ColdCard**
+
 1.  Setup your [Coldcard](https://coldcardwallet.com/docs/quick)
 2.  Setup your [myNode One](http://mynodebtc.com/guide/getting_started)
 3.  Wait for initital block download (IBD) to complete
@@ -61,6 +63,8 @@ Cold storage refers to a method of bitcoin storage that has never touched the in
 13. Select your newly created wallet in Specter and press receive to see your first address
 
 ### DIY Node Version
+
+**RoninDojo + Electrum Desktop + Coldcard**
 
 1.  Setup your [Coldcard](https://coldcardwallet.com/docs/quick)
 2.  Assemble your RoninDojo node [hardware](https://wiki.ronindojo.io/en/hardware)

@@ -22,6 +22,10 @@ Lets get started!
 7.  [Spending your Bitcoin](spend.md)
 8.  [Supplementary tools](supplementary.md)
 
+<br/>
+
+[Pull requests](https://github.com/BitcoinQnA/BitcoinPrivacyGuide) and ideas are welcomed
+
 
 ***
 

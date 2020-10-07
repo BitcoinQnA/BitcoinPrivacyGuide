@@ -56,7 +56,7 @@ Cold storage refers to a method of bitcoin storage that has never touched the in
 6.  On your ColdCard export 'Electrum Wallet' to your Coldcard SD card and insert into your computer
 7.  In Specter 'choose files' and select the **.JSON** file you just exported
 8.  Press continue and the device will be added
-9.  Press 'add new wallet', then 'single key'
+9.  Press 'add new wallet' then 'single key'
 10. Name the wallet, choose Segwit and select your Coldcard
 11. Press continue then 'create wallet'
 12. Wait for IBD to complete in core

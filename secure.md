@@ -55,7 +55,12 @@ There goes a saying in Bitcoin, "not your keys, not your coins". What this essen
 
 ### Backup 
 
-Your bitcoin backup is your bitcoin. Anyone with access to it, has access to your bitcoin. Most people go for some form of [metal](https://jlopp.github.io/metal-bitcoin-storage-reviews/) storage.
+Your bitcoin backup is your bitcoin. Anyone with access to it, has access to your bitcoin. 
+
+*  Samourai Wallet creates an encrypted backup of your wallet automatically on your phone
+*  Fully Noded creates a `wallet.dat` file on your node, you should make a copy of this and store somewhere secure
+
+For extra redundancy most people keep their seed words on some form of [metal](https://jlopp.github.io/metal-bitcoin-storage-reviews/) storage.
 
 You should ensure that your chosen method of backup is resistant to...
 

@@ -14,7 +14,7 @@ layout: default
 3.  [Phones](#phones)
 3.  [Other](#other)
 
-
+<br/>
 
 ### Tor browser
 
@@ -31,7 +31,9 @@ A VPN provides privacy by 'tunneling' your web traffic to a different server whi
 Communication services that use encryption to avoid spying.
 
 [Signal](https://signal.org/en/)
+
 [Keybase](https://keybase.io/)
+
 [Telegram](https://telegram.org/) (*Use secret chats*)
 
 
@@ -40,6 +42,7 @@ Communication services that use encryption to avoid spying.
 E-mail services that use encryption to avoid spying.
 
 [Proton Mail](https://protonmail.com/)
+
 [Tutanota](https://tutanota.com/)
 
 
@@ -47,14 +50,17 @@ E-mail services that use encryption to avoid spying.
 
 Privacy focused forks of Android with google services removed.
 
-[Graphene OS](https://grapheneos.org/) - [DIY](https://www.youtube.com/watch?v=oO0UFZjuotg)
-[Copperhead OS](https://copperhead.co/) - [Purchase](https://mamushi.io/)
-[Calyx OS](https://calyxos.org/) - [DIY instructions]https://calyxos.org/get)
+[Graphene OS](https://grapheneos.org/)
+
+[Copperhead OS](https://mamushi.io/)
+
+[Calyx OS](https://calyxos.org/)
 
 
 ### Other
 
 [Standard Notes](https://standardnotes.org/) - Cross platform notes app that uses encryption
+
 [Tails OS](https://tails.boum.org/) - Portable OS that boots from a USB stick 
 
 

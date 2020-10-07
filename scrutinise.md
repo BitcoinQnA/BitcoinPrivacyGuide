@@ -15,7 +15,7 @@ layout: default
 
 ### What are we scrutinising?
 
-As I touched on in the [secure](https://bitcoinprivacy.guide/secure.html) page, if you arent trusting your own node to verify your transactions then you are trusting someone else's. A node is a computer running the 'bitcoin software' which comes it's own copy of the 'bitcoin rules'. Each time a node sees a transaction it will scrutinise the details against it's own ruleset to ensure everything is present and correct and that the creator of the transaction isn't trying to cheat the system. By having your wallet connected to your own node, you can be sure that every transaction you receive is compliant to the rules that you, and everyone else participating in the network agrees upon.
+As outlined in the [secure](https://bitcoinprivacy.guide/secure.html) page, if you arent trusting your own node to verify your transactions then you are trusting someone else's. A node is a computer running the 'bitcoin software' which comes it's own copy of the 'bitcoin rules'. Each time a node sees a transaction it will scrutinise the details against it's own ruleset to ensure everything is present and correct and that the creator of the transaction isn't trying to cheat the system. By having your wallet connected to your own node, you can be sure that every transaction you receive is compliant to the rules that you, and everyone else participating in the network agrees upon.
 
 If you are trusting someone else's node, you are abiding by their rules. Their rules could be allowing false transactions to hit your wallet leading you to believe you are receiving bitcoin when in reality you aren't. Try spending those bitcoin with someone who is abiding by the 'real' or widely adopted rules and you will be rejected.
 

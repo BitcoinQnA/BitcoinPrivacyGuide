@@ -89,7 +89,7 @@ There are plenty of other hardware wallet and node combinations, most will requi
 
 * As touched on in the [secure](https://bitcoinprivacy.guide/secure.html) page, your backup **is** your bitcoin. This is no different for mobile or hardware wallets. Guard it with your life.
 
-* If you have just coinjoined some of your bitcoin and are keen to get it sent off to cold storage, be mindful of how you spend construct your transaction. Like we covered earlier, merging UTXO's shows common ownership to anyone watching on chain. Samourai wallet has tools to mitigate this which we will cover next, but for those using other tools it is good practice to send each postmix UTXO on its own to a new address in your cold storage to keep things segregated.
+* If you have just coinjoined some of your bitcoin and are keen to get it sent off to cold storage, be mindful of how you construct your transaction. Merging UTXO's shows common ownership to anyone watching on chain. Samourai wallet has tools to mitigate this which we will cover next, but for those using wallets without these tools it is good practice to send each postmix UTXO on its own to a new address in your cold storage to keep things segregated.
 
 * When getting any form of bitcoin related hardware delivered you are suceptable to supply chain attack. This means that an attacker could intercept the package and swap it out with a malicious device designed to steal your bitcoin. Whilst this is unlikely, it is something worth taking into account when setting up your devices. Ensure you follow the check procedures outlined by the product manufacturer when you receive. 
 

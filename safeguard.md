@@ -9,7 +9,7 @@ layout: default
 
 1.  [What is coldstorage?](#why-safeguard)
 2.  [Desktop Node Version](#desktop-node-version)
-3.  [Plug + Play Node](#plug-and-play-node-version)
+3.  [Plug + Play Node](#plug-play-node-version)
 3.  [DIY Node](#diy-node-version)
 4.  [Other options](#other-options)
 5.  [Trade-offs](#trade-offs)

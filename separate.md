@@ -20,7 +20,7 @@ The Bitcoin blockchain is completely public, anyone can hop onto a block explore
 
 Coinjoin is a privacy tool that prevents this and there are different types of implementations each with their own take on the same basic idea. Two or more users pool their UTXO's together into a collaborative transaction that is formed in a unique way. The way the transaction is constructed makes it very difficult for surveillance firms to know exactly which transaction output belongs to which of the input owners. 
 
-This is where the separation part comes in... A proper coinjoin implementation will completely break all deterministic links between the 'pre coinjoin' past. At best anyone looking at the transaction can come up with a number of possible scenarios as to who owns which piece of bitcoin but they can never be 100% sure. Now imagine you carry out multiple rounds of coinjoin one after the other, the transaction graph quickly becomes very confusing and impossible to track.
+This is where the separation part comes in... A proper coinjoin implementation will completely break all deterministic links with the coins 'pre coinjoin' past. At best anyone looking at the transaction can come up with a number of possible scenarios as to who owns which piece of bitcoin but they can never be 100% sure. Now imagine you carry out multiple rounds of coinjoin one after the other, the transaction graph quickly becomes very confusing and impossible to track.
 
 [Here](https://www.bit-buy-bit.com/podcast-1/episode/2a64f9e1/ep43-bitcoin-podcast-with-bitcoin-qa-coinjoin) is a podcast episode where I talk through the basics of coinjoin.
 

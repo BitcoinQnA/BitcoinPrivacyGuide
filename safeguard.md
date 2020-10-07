@@ -78,7 +78,7 @@ Cold storage refers to a method of bitcoin storage that has never touched the in
 
 ### Other options 
 
-There are plenty of other hardware wallet and node combinations, most will require some form of Electrum Server to act as a bridge between the underlying bitcoin software on your node and Electrum desktop wallet which the most commonly used hardware wallet interface.
+There are plenty of other hardware wallet and node combinations, most will require some form of Electrum Server to act as a bridge between the underlying bitcoin software on your node and desktop wallet which the most commonly used hardware wallet interface.
 
 
 ### Trade-offs

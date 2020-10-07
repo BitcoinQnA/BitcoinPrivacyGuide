@@ -10,7 +10,7 @@ layout: default
 1.  [Tor](#tor-browser)
 2.  [VPN](vpn-services)
 2.  [Messaging](#messaging)
-3.  [Email](#email)
+3.  [E-mail](#email)
 3.  [Phones](#phones)
 3.  [Other](#other)
 
@@ -51,11 +51,13 @@ E-mail services that use encryption to avoid spying.
 Privacy focused forks of Android with google services removed.
 
 * [Graphene OS](https://grapheneos.org/)
-
-* [Copperhead OS](https://mamushi.io/)
+   * [Guide](https://www.youtube.com/watch?v=oO0UFZjuotg)
+ 
+* [Copperhead OS](https://copperhead.co/android/)
+   * [Purchase](https://mamushi.io/)
 
 * [Calyx OS](https://calyxos.org/)
-
+  * [Explainer](https://www.youtube.com/watch?v=heVNcdq2MKA)
 
 ### Other
 

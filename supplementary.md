@@ -24,44 +24,44 @@ layout: default
 
 A VPN provides privacy by 'tunneling' your web traffic to a different server which is generally located somewhere in a different country. Whilst this does prevent your ISP from spying on your online activity, you do place some trust in the VPN server you are connecting to.
 
-[Mullvad](https://mullvad.net/en/)
+* [Mullvad](https://mullvad.net/en/)
 
 ### Messaging
 
 Communication services that use encryption to avoid spying.
 
-[Signal](https://signal.org/en/)
+* [Signal](https://signal.org/en/)
 
-[Keybase](https://keybase.io/)
+* [Keybase](https://keybase.io/)
 
-[Telegram](https://telegram.org/) (*Use secret chats*)
+* [Telegram](https://telegram.org/) (*Use secret chats*)
 
 
 ### E-mail
 
 E-mail services that use encryption to avoid spying.
 
-[Proton Mail](https://protonmail.com/)
+* [Proton Mail](https://protonmail.com/)
 
-[Tutanota](https://tutanota.com/)
+* [Tutanota](https://tutanota.com/)
 
 
 ### Phones
 
 Privacy focused forks of Android with google services removed.
 
-[Graphene OS](https://grapheneos.org/)
+* [Graphene OS](https://grapheneos.org/)
 
-[Copperhead OS](https://mamushi.io/)
+* [Copperhead OS](https://mamushi.io/)
 
-[Calyx OS](https://calyxos.org/)
+* [Calyx OS](https://calyxos.org/)
 
 
 ### Other
 
-[Standard Notes](https://standardnotes.org/) - Cross platform notes app that uses encryption
+* [Standard Notes](https://standardnotes.org/) - Cross platform notes app that uses encryption
 
-[Tails OS](https://tails.boum.org/) - Portable OS that boots from a USB stick 
+* [Tails OS](https://tails.boum.org/) - Portable OS that boots from a USB stick 
 
 
   ***

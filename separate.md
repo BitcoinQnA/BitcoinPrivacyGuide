@@ -62,7 +62,7 @@ Samourai Wallet offers the easiest and most effective coinjoin implementation, W
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/BitcoinQnA/BitcoinPrivacyGuide/master/assets/images/RD1.png" class=responsive width="550" height="325" maxheight="325" />
+<img src="https://raw.githubusercontent.com/BitcoinQnA/BitcoinPrivacyGuide/master/assets/images/RD1.png" class=responsive width="550" height="300" maxheight="300" />
 </p>
 
 

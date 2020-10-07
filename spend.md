@@ -65,4 +65,4 @@ Or...
   
   ***
   
-Now you have obtained, secured, segregated, labelled and coinjoined your bitcoin into both mobile and hardware wallets that are backed by your own node and learned how to spend in a privacy focused way. Let's look at some of the [supplementary] tools available to further lock down your Bitcoin related privacy.
+Now you have obtained, secured, segregated, labelled and coinjoined your bitcoin into both mobile and hardware wallets that are backed by your own node and learned how to spend in a privacy focused way. Let's look at some of the [supplementary](https://bitcoinprivacy.guide/supplementary.html) tools available to further lock down your Bitcoin related privacy.

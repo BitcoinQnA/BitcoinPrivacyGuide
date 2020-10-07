@@ -50,7 +50,7 @@ Samourai Wallet offers the easiest and most effective coinjoin implementation, W
 
 **Bonus**
 
-* For easier mix management and 24/7 remixing ensure you make use of Whirlpool GUI and the Whirlpool CLI implementations that come packaged with myNode, Nodl and RoninDojo. The graphic below is an example of how it all fits together.
+* For easier mix management and 24/7 remixing you can pair your Samourai Wallet with Whirlpool GUI (a desktop app) and Whirlpool CLI that come packaged with myNode, Nodl and RoninDojo. The graphic below is an example of how it all fits together.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/BitcoinQnA/BitcoinPrivacyGuide/master/assets/images/RD1.png" class=responsive width="550" height="300" maxheight="300" />
@@ -69,7 +69,7 @@ There is currently no coinjoin option for iOS. Recommended course of action...
 
 #### Joinmarket
 
-[Joinmarket](https://en.bitcoin.it/wiki/JoinMarket) is by no means a beginner option, something worth exploring as you become more experienced.
+[Joinmarket](https://github.com/openoms/bitcoin-tutorials/blob/master/joinmarket/README.md) is by no means a beginner option, something worth exploring as you become more experienced.
 
 ### Trade-offs
 

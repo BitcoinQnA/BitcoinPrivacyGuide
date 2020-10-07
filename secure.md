@@ -17,7 +17,7 @@ layout: default
 
 ### Why secure your own bitcoin?
 
-There goes a saying in Bitcoin, "not your keys, not your coins". What this essentially means is that, if you are not in control of your private keys (your recovery/seed words) then your are not in control of your bitcoin. Fortunately, if you are buying from a no-KYC source then you will almost certainly require your own wallet to conduct trades. From a privacy perspective if you do not control your own keys, for example if you have your bitcoin held with a custodian, then you essentially have zero privacy. Whoever controls those keys has the ability to not only see all of your funds, but spend them as they see fit.
+There goes a saying in Bitcoin, "not your keys, not your coins". What this essentially means is that, if you are not in control of your private keys (your recovery/seed words) then you are not in control of your bitcoin. Fortunately, if you are buying from a no-KYC source then you will almost certainly require your own wallet to conduct trades. From a privacy perspective if you do not control your own keys, for example if you have your bitcoin held with a custodian, then you essentially have zero privacy. Whoever controls those keys has the ability to not only see all of your funds, but spend them as they see fit.
 
 [Here](https://www.bit-buy-bit.com/podcast-1/episode/26df4d37/ep35-bitcoin-podcast-with-itcoin-qa) is a podcast episode where I walk through in details the basics of bitcoin wallets.
 
@@ -70,7 +70,7 @@ You should ensure that your chosen method of backup is resistant to...
   
 ### Trade-offs
 
-Unless your chosen wallet is backed by your own node, you are trusting someone elses. This means that your transactional data and wallet balances are being served by someone else, meaning they can theoretically eavesdrop on your on-chain activity. However, most users aren't likely to run a node **before** they even hold their own keys, the natural learning progression doesn't work that way. If you feel confident in setting up your own node first then skip ahead to the [scrutinise](https://bitcoinprivacy.guide/scrutinise.html) section and then come back here to continue with the guide. 
+Unless your chosen wallet is backed by your own node, you are trusting someone elses. This means that your transactional data and wallet balances are being served by someone else and they can theoretically eavesdrop on your on-chain activity. However, most users aren't likely to run a node **before** they even hold their own keys, the natural learning progression doesn't work that way. If you feel confident in setting up your own node first then skip ahead to the [scrutinise](https://bitcoinprivacy.guide/scrutinise.html) section and then come back here to continue with the guide. 
 
 But if that sounds a bit too much for you right now don't panic, we will fix that later in the guide.
 

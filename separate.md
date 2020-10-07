@@ -53,7 +53,7 @@ Samourai Wallet offers the easiest and most effective coinjoin implementation, W
 * For easier mix management and 24/7 remixing ensure you make use of Whirlpool GUI and the Whirlpool CLI implementations that come packaged with myNode, Nodl and RoninDojo. The graphic below is an example of how it all fits together.
 
 <p align="center">
-  <img width="650" height="380" src="https://raw.githubusercontent.com/BitcoinQnA/BitcoinPrivacyGuide/master/assets/images/RD1.png">
+  <img width="550" height="380" src="https://raw.githubusercontent.com/BitcoinQnA/BitcoinPrivacyGuide/master/assets/images/RD1.png">
 </p>
 
 <br/>
@@ -62,7 +62,7 @@ Samourai Wallet offers the easiest and most effective coinjoin implementation, W
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/BitcoinQnA/BitcoinPrivacyGuide/master/assets/images/RD1.png" class=responsive width="650" height="380" maxheight="380" />
+<img src="https://raw.githubusercontent.com/BitcoinQnA/BitcoinPrivacyGuide/master/assets/images/RD1.png" class=responsive width="550" height="380" maxheight="380" />
 </p>
 
 

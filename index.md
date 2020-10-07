@@ -20,6 +20,7 @@ Lets get started!
 5.  [Separating your Bitcoin from it's past](separate.md)
 6.  [Safeguarding your Bitcoin](safeguard.md)
 7.  [Spending your Bitcoin](spend.md)
+8.  [Supplementary tools](supplementary.md)
 
 
 ***

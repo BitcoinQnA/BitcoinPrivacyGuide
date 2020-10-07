@@ -52,7 +52,7 @@ The main things to consider when choosing a node to run...
 | Super Easy  | Bitcoin Core on a computer | [Bitcoin Core](https://bitcoin.org/en/full-node#windows-instructions)  | No - Built in wallet or works with Specter desktop |   
 | Plug + Play   | myNode One                         | [myNode](http://mynodebtc.com/guide/getting_started)                     | Both                      |
 | Plug + Play   | Nodl One or Nodl Dojo              | [Nodl](https://docs.lightning-solutions.eu/nodl-box/quick-start/getting-started) | Both              |
-| Self build    | RoninDojo                          | [RoninDojo](https://wiki.ronindojo.io)                                   | Both                      |
+| Self build    | RoninDojo                          | [RoninDojo](https://wiki.ronindojo.io)                                   | Both, but more Samourai focused             |
 
 
 ### Trade-offs

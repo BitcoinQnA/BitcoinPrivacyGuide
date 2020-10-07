@@ -53,7 +53,15 @@ Ricochet creates additional 'hops' or 'distance' between your Samourai wallet ac
 
 ### iOS
 
+There are currently no iOS wallets that have privacy preserving spend tools. This section will be updated if that changes. 
 
+Recommended course of action is to follow the basic steps outlined [here](#spending-considerations). 
+
+Or...
+
+* Buy a cheap android phone
+* Install Samourai Wallet
+* Follow steps above
   
   ***
   

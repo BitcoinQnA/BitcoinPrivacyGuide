@@ -24,7 +24,7 @@ Lets get started!
 
 <br/>
 
-[Pull requests](https://github.com/BitcoinQnA/BitcoinPrivacyGuide) and ideas are welcomed
+[Pull requests](https://github.com/BitcoinQnA/BitcoinPrivacyGuide) and suggestions are welcomed
 
 
 ***

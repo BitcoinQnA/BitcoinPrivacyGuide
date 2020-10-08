@@ -12,6 +12,7 @@ layout: default
 2.  [Messaging](#messaging)
 3.  [E-mail](#email)
 3.  [Phones](#phones)
+4.  [Password managers](#password-managers)
 3.  [Other](#other)
 
 <br/>
@@ -58,6 +59,10 @@ Privacy focused forks of Android with google services removed.
 
 * [Calyx OS](https://calyxos.org/)
   * [Explainer](https://www.youtube.com/watch?v=heVNcdq2MKA)
+  
+### Password managers
+
+*  [Bitwarden](https://bitwarden.com/)
 
 ### Other
 

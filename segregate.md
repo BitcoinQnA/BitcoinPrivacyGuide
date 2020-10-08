@@ -68,6 +68,8 @@ Your lables in Samourai Wallet are saved automatically in the encrypted backup f
 2.  Press advanced
 3.  Hit import address
 4.  You can now add or overwrite and address label
+
+The labels you create in Fully Noded are stored on your node. Create a secure copy of your `wallet.dat` file to back these up. 
   
 ### Trade-offs
 

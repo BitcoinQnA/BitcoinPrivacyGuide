@@ -18,7 +18,7 @@ layout: default
 
 ### Tor browser
 
-[Tor](https://www.torproject.org/download/) is a web broswer that runs on the Tor network. It masks your IP address and gives you much greater online privacy. All of the tools mentioned in this guide also run natively over the Tor. 
+[Tor](https://www.torproject.org/download/) is a web broswer that runs on the Tor network. It masks your IP address and gives you much greater online privacy. All of the tools mentioned in this guide also run natively over Tor. 
 
 ### VPN services
 

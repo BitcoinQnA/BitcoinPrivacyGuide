@@ -28,7 +28,8 @@ This is where the separation part comes in... A proper coinjoin implementation w
 
 *  There are fees involved with coinjoins, ensure you understand them fully before starting out
 *  Your spending habits after you coinjoin are very important. We will cover those [later](https://bitcoinprivacy.guide/spend.html)
-*  Avoid centralised 'mixers' as they actually take control of your bitcoin for a short period of time  
+*  Avoid centralised 'mixers' as they actually take control of your bitcoin for a short period of time
+*  You should run your own Dojo before using Whirlpool for maximum privacy. *All of the node implementations (apart from core) mentioned on the previous page come packaged with Dojo.*
 
 
 ### Android 

@@ -31,6 +31,6 @@ Lets get started!
 
 <p align="center">
   <a href="https://twitter.com/BitcoinQ_A">By Bitcoin Q+A</a> |
-  <a href="https://www.bitcoinqna.com/donations">Support</a>
+  <a href="https://btcpayjungle.com/apps/2kYZPktoVSxfp4fWaZjcbnbPpCut/pos">Support</a>
   <br><br>
 </p>

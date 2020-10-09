@@ -24,7 +24,7 @@ KYC or 'Know your customer' is a regulation that any businesses with a banking r
 * Come after you for tax liabilities
 * Generally know more about you than they should 
 
-If you already own some bitcoin from a KYC source, you can see decide on the best course of action and read more on the risks of KYC [here](https://bitcoinqna.github.io/noKYConly/). At the very least, ensure that you keep your KYC and non-KYC stacks of bitcoin completely separate.
+If you already own some bitcoin from a KYC source, you can decide on the best course of action and read more on the risks of KYC [here](https://bitcoinqna.github.io/noKYConly/). At the very least, ensure that you keep your KYC and non-KYC stacks of bitcoin completely separate.
 
 Given these risks it seems logical that step 1 of your Bitcoin privacy journey should be to ensure that when obtaining bitcoin, the less people that know the better. Buying from a no-KYC source facilitates this.
 
@@ -46,15 +46,15 @@ Given these risks it seems logical that step 1 of your Bitcoin privacy journey s
 
 #### More in-depth
 
-1.  Download [Bisq](https://bisq.network/downloads/) onto your computer and wait for it to sync
+1.  Download [Bisq](https://bisq.network/downloads/) onto your computer, run it and wait for it to sync
 2.  Click on account and add the payment method you intend to use to purchase bitcoin with
-3.  Go to 'Buy BTC' and seearch for sellers offering bitcoin in exchange for your chosen payment method
+3.  Go to 'Buy BTC' and search for sellers offering bitcoin in exchange for your chosen payment method
 4.  Click 'Take Offer'
 5.  Specify the amount you wish to buy (if the seller is offering a range) 
 6.  Fund trade wallet with BTC
 7.  Confirm trade
 8.  Wait for 1 blockchain confirmation
-9.  You will then see sellers payments details to send to
+9.  You will then see seller's payment details to send to
 10. Once the seller confirms receipt of payment, the bitcoin (including your deposit) will be sent to your Bisq wallet
 
 ### Other options

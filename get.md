@@ -24,7 +24,7 @@ KYC or 'Know your customer' is a regulation that any businesses with a banking r
 * Come after you for tax liabilities
 * Generally know more about you than they should 
 
-You can read more on the risks of KYC and what options are available to you [here](https://bitcoinqna.github.io/noKYConly/). 
+If you already own some bitcoin from a KYC source you can see more detail on the best course of action and read more on the risks of KYC and what options are available to you [here](https://bitcoinqna.github.io/noKYConly/). At the very least, ensure that you keep your KYC and non-KYC stacks of bitcoin completely separate.
 
 Given these risks it seems logical that step 1 of your Bitcoin privacy journey should be to ensure that when obtaining bitcoin, the less people that know the better. Buying from a no-KYC source facilitates this.
 
@@ -69,7 +69,6 @@ Given these risks it seems logical that step 1 of your Bitcoin privacy journey s
 
 - **Vouchers**
   - [Azteco](https://azte.co/index.php#intro)
-  - [LibertyX](https://libertyx.com/)
   
 - **Misc**
   - [Earn it]()

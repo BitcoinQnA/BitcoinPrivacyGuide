@@ -34,6 +34,7 @@ Cold storage refers to a method of bitcoin storage that has never touched the in
 7. Select & scan X/Y/Z PUBs from offline wallet into online Sentinel
 8. Use Sentinel to view balance, receive payments, compose & broadcast PSBT txs
 9. Use offline Samourai Wallet to sign PSBT txs for offline spending
+
 ### Desktop Node Version
 
 **Bitcoin Core + Specter Desktop + Coldcard**

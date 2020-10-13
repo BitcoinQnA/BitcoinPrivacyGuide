@@ -18,7 +18,7 @@ layout: default
 
 Segregation simply means having the ability to keep your different 'chunks' of bitcoin separate from one another. These chunks of bitcoin are known as unspent transaction outputs (UTXOs). Why would we want to keep them separate? Let's imagine that your wallet holds 1 BTC split between 2 UTXOs that are 0.5 BTC each and you want to send me 0.6 BTC. This transaction would result in your wallet combining those two UTXO's together to create an output that pays me 0.6 BTC and you would have a change output of around 0.4 BTC less any fees. 
 
-So what? Well now lets imagine that one of your 0.5 BTC was a change output from a 'frowned upon' service or source and the person you're paying is a regulated entity that is actively perfomring chain analysis. They could refuse access to their service, block your account or even report you to the authorities. This is just one example designed to demonstrate that one transaction could leak a lot of information about you and your transactional history, not good for your privacy!
+So what? Well now let's imagine that one of your 0.5 BTC was a change output from a 'frowned upon' service or source and the person you're paying is a regulated entity that is actively performing chain analysis. They could refuse access to their service, block your account, or even report you to the authorities. This is just one example designed to demonstrate that one transaction could leak a lot of information about you and your transactional history - not good for your privacy!
 
 So how do we mitigate against such a privacy leak? By using a [wallet](https://bitcoinprivacy.guide/secure.html) that offers coin control and labelling. Coin cointrol is a simply the ability to select which UTXOs are used to construct any given transaction. Ensuring that your UTXO's are effectively labelled will enable you to decide which UTXOs you want to include in future transactions. You can label any way you'd like but it is generally good practice to include the source of the funds in a format that suits you.
 
@@ -46,7 +46,7 @@ Samourai Wallet and Fully Noded are two of very few mobile wallets that enable t
 3.  Double tap the UTXO(s) you want to label
 4.  Press add note
 
-Your lables in Samourai Wallet are saved automatically in the encrypted backup file that is stored on your phone. If you need to restore your wallet ensure you used this method rather than using your seed words to retain your labels.
+Your labels in Samourai Wallet are saved automatically in the encrypted backup file that is stored on your phone. If you need to restore your wallet ensure you used this method rather than using your seed words to retain your labels.
 
 ### iOS
 
@@ -57,7 +57,7 @@ Your lables in Samourai Wallet are saved automatically in the encrypted backup f
 3.  Tap a utxo(s) to select it for a spend
 4.  Tap the 🔗 button to create the transaction
 5.  Enter the amount
-6.  FN will check if you have an address copied to cliplboard, if not you can scan a QR to select the recipient address
+6.  FN will check if you have an address copied to clipboard, if not you can scan a QR to select the recipient address
 7.  Send
 
 #### Fully Noded - Labelling
@@ -73,9 +73,9 @@ The labels you create in Fully Noded are stored on your node. Create a secure co
   
 ### Trade-offs
 
-The only real tradeoff with labelling your UTXO's and practicing coin control is the minimal extra steps required to do each one. Just remember, if you do not specify which UTXO's to spend in a transaction, your wallet will do it for you with no regard for each chunk of bitcoins previous history.
+The only real tradeoff with labelling your UTXO's and practicing coin control is the minimal extra steps required to do each one. Just remember, if you do not specify which UTXOs to spend in a transaction, your wallet will do it for you with no regard for each chunk of bitcoin's previous history.
 
   
   ***
   
-  Now you have obtained, secured, segregated and labelled your bitcoin to maximise your privacy, lets work on [scrutinising](https://bitcoinprivacy.guide/scrutinise.html) your transactions.
+  Now you have obtained, secured, segregated and labelled your bitcoin to maximise your privacy, let's work on [scrutinising](https://bitcoinprivacy.guide/scrutinise.html) your transactions.

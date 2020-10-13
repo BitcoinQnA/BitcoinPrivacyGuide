@@ -16,9 +16,9 @@ layout: default
 
 ### What are we separating?
 
-The Bitcoin blockchain is completely public, anyone can hop onto a block explorer and look up any transaction from the last hour or the last 10 years. Depending on the tools available and their level of expertise they could analyse and follow any one of these transactions to build up a picture of an entitie's spending habits. Chain surveillance firms do exactly this, and using heuristics (*assumptions*) they can cluster transactions together to follow a given entity accross the chain. Aside from this being an invasion of your privacy it also poses the risks we covered in [sourcing](https://bitcoinprivacy.guide/get.html) your bitcoin.
+The Bitcoin blockchain is completely public, anyone can hop onto a block explorer and look up any transaction from the last hour or the last 10 years. Depending on the tools available and their level of expertise they could analyse and follow any one of these transactions to build up a picture of an entity's spending habits. Chain surveillance firms do exactly this, and using heuristics (*assumptions*) they can cluster transactions together to follow a given entity accross the chain. Aside from this being an invasion of your privacy it also poses the risks we covered in [sourcing](https://bitcoinprivacy.guide/get.html) your bitcoin.
 
-Coinjoin is a privacy tool that prevents this and there are different types of implementations each with their own take on the same basic idea. Two or more users pool their UTXO's together into a collaborative transaction that is formed in a unique way. The way the transaction is constructed makes it very difficult for surveillance firms to know exactly which transaction output belongs to which of the input owners. 
+Coinjoin is a privacy tool that prevents this and there are different types of implementations, each with their own take on the same basic idea. Two or more users pool their UTXOs together into a collaborative transaction that is formed in a unique way. The way the transaction is constructed makes it very difficult for surveillance firms to know exactly which transaction output belongs to which of the input owners. 
 
 This is where the separation part comes in... A proper coinjoin implementation will completely break all deterministic links with the coins 'pre coinjoin' past. At best anyone looking at the transaction can come up with a number of possible scenarios as to who owns which piece of bitcoin but they can never be 100% sure. Now imagine you carry out multiple rounds of coinjoin one after the other, the transaction graph quickly becomes very confusing and impossible to track.
 
@@ -40,8 +40,8 @@ Samourai Wallet offers the easiest and most effective coinjoin implementation, W
 1.  Send some bitcoin into your wallet as outlined [earlier](https://bitcoinprivacy.guide/secure.html#android)
 2.  Click the blue + and press Whirlpool
 3.  Once Whirlpool loads, press the icon in the bottom right corner
-4.  Press mix UTXO's
-5.  Select which UTXO's you want to mix
+4.  Press mix UTXOs
+5.  Select which UTXOs you want to mix
 6.  Pick how quickly you would like the mix to be initiated
 7.  Review the transaction details
 8.  Begin cycle
@@ -74,7 +74,7 @@ There is currently no coinjoin option for iOS. Recommended course of action...
 
 ### Trade-offs
 
-Coinjoin is a complex topic to wrap your head around and frought with pitfalls in which you can leak your privacy. Fortunately, tools like Whirlpool are making things almost fool proof. Coinjoin does not erase the past it simply affords you forward looking privacy. Remember that you can easily undo much of the privacy gained by practicing poor postmix spending habits eg merging multiple UTXOs.
+Coinjoin is a complex topic to wrap your head around and fraught with pitfalls in which you can leak your privacy. Fortunately, tools like Whirlpool are making things almost foolproof. Coinjoin does not erase the past, it simply affords you forward looking privacy. Remember that you can easily undo much of the privacy gained by practicing poor postmix spending habits e.g. merging multiple UTXOs.
 
   
   ***

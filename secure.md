@@ -17,7 +17,7 @@ layout: default
 
 ### Why secure your own bitcoin?
 
-There goes a saying in Bitcoin, "not your keys, not your coins". What this essentially means is that, if you are not in control of your private keys (your recovery/seed words) then you are not in control of your bitcoin. Fortunately, if you are buying from a no-KYC source then you will almost certainly require your own wallet to conduct trades. From a privacy perspective if you do not control your own keys, for example if you have your bitcoin held with a custodian, then you essentially have zero privacy. Whoever controls those keys has the ability to not only see all of your funds, but spend them as they see fit.
+There goes a saying in Bitcoin, "not your keys, not your coins." What this essentially means is that, if you are not in control of your private keys (your recovery/seed words) then you are not in control of your bitcoin. Fortunately, if you are buying from a no-KYC source then you will almost certainly require your own wallet to conduct trades. From a privacy perspective if you do not control your own keys, for example if you have your bitcoin held with a custodian, then you essentially have zero privacy. Whoever controls those keys has the ability to not only see all of your funds, but spend them as they see fit.
 
 [Here](https://www.bit-buy-bit.com/podcast-1/episode/26df4d37/ep35-bitcoin-podcast-with-itcoin-qa) is a podcast episode where I walk through in details the basics of bitcoin wallets.
 
@@ -43,7 +43,7 @@ There goes a saying in Bitcoin, "not your keys, not your coins". What this essen
 4.  Select single sig
 5.  Write down your recovery words (*it is crucial that you secure this. Without it you cannot access your bitcoin*)
 7.  Press invoice
-8.  You will now see your first bitcoin address that you can receive to
+8.  You will now see your first bitcoin address to which you can receive funds
 
 
 ### Other options
@@ -55,7 +55,7 @@ There goes a saying in Bitcoin, "not your keys, not your coins". What this essen
 
 ### Backup 
 
-Your bitcoin backup is your bitcoin. Anyone with access to it, has access to your bitcoin. 
+Your bitcoin backup is your bitcoin. Anyone with access to it has access to your bitcoin. 
 
 *  Samourai Wallet creates an encrypted backup of your wallet automatically on your phone
 
@@ -65,7 +65,7 @@ You should ensure that your chosen method of backup is resistant to...
 
 *  Theft/Loss
 *  Fire/Water/Elements damage
-*  Degredation
+*  Degradation
   
 ### Trade-offs
 
@@ -77,4 +77,4 @@ Holding your own keys is a big responsibility, there are no refunds in Bitcoin.
   
   ***
   
-  Now you know how to obtain secure privately, lets [segregate it](https://bitcoinprivacy.guide/segregate.html).
+  Now you know how to obtain secure privately, let's [segregate it](https://bitcoinprivacy.guide/segregate.html).

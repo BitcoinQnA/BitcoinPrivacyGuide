@@ -26,7 +26,7 @@ KYC or 'Know your customer' is a regulation that any businesses with a banking r
 
 If you already own some bitcoin from a KYC source, you can decide on the best course of action and read more on the risks of KYC [here](https://bitcoinqna.github.io/noKYConly/). At the very least, ensure that you keep your KYC and non-KYC stacks of bitcoin completely separate.
 
-Given these risks it seems logical that step 1 of your Bitcoin privacy journey should be to ensure that when obtaining bitcoin, the less people that know the better. Buying from a no-KYC source facilitates this.
+Given these risks it seems logical that step 1 of your Bitcoin privacy journey should be to ensure that when obtaining bitcoin, the fewer people who know, the better. Buying from a no-KYC source facilitates this.
 
 ### Where to buy no-KYC?
 
@@ -37,7 +37,7 @@ Given these risks it seems logical that step 1 of your Bitcoin privacy journey s
 3.  Select desired payment method
 4.  Select the offer you wish to take
 5.  Specify the amount you wish to buy (if the seller is offering a range) 
-6.  Enter receive address that you want the bitcoin to be sent to
+6.  Enter receive address to which you want the bitcoin to be sent
 7.  Generate an escrow password
 8.  Wait for seller to deposit their bitcoin to the escrow and for 1 confirmation
 9.  Send the funds using your chosen payment method and confirm this on Hodl Hodl
@@ -71,7 +71,7 @@ Given these risks it seems logical that step 1 of your Bitcoin privacy journey s
   - [Azteco](https://azte.co/index.php#intro)
   
 - **Misc**
-  - [Earn it]()
+  - [Earn it](https://www.lopp.net/bitcoin-information/buying-earning.html#earning)
   - [Buy in person at a meetup](https://bitcoin-only.com/#meetups)
   
   

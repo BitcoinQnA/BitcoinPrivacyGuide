@@ -7,7 +7,7 @@ layout: default
 
 ### Table of Contents
 
-1.  [What is coldstorage?](#why-safeguard)
+1.  [What is cold storage?](#why-safeguard)
 2.  [Desktop node](#desktop-node-version)
 3.  [Plug + Play node](#plug-play-node-version)
 3.  [DIY node](#diy-node-version)
@@ -25,13 +25,13 @@ Cold storage refers to a method of bitcoin storage that has never touched the in
 
 **Bitcoin Core + Specter Desktop + Coldcard**
 
-1.  Setup your [Coldcard](https://coldcardwallet.com/docs/quick)
+1.  Set up your [Coldcard](https://coldcardwallet.com/docs/quick)
 2.  Download [Bitcoin Core](https://bitcoin.org/en/download)
-2.  Open core, go to 'options' and edit the config file to add the line `server=1`
-3.  Restart core, initital block download (IBD) will now recommence.
+2.  Open Core, go to 'options' and edit the config file to add the line `server=1`
+3.  Restart Core, initital block download (IBD) will now recommence.
 4.  Download [Specter Desktop](https://github.com/cryptoadvance/specter-desktop/releases)
 5.  Select 'run local Specter server'
-6.  Bitcoin core will be automatically detected
+6.  Bitcoin Core will be automatically detected
 7.  In Specter press 'add new device' then give it a name and select the device type
 8.  On your ColdCard export 'Electrum Wallet' to your Coldcard SD card and insert into your computer
 9.  In Specter 'choose files' and select the **.JSON** file you just exported
@@ -59,14 +59,14 @@ Cold storage refers to a method of bitcoin storage that has never touched the in
 9.  Press 'add new wallet' then 'single key'
 10. Name the wallet, choose Segwit and select your Coldcard
 11. Press continue then 'create wallet'
-12. Wait for IBD to complete in core
+12. Wait for IBD to complete in Core
 13. Select your newly created wallet in Specter and press receive to see your first address
 
 ### DIY Node Version
 
 **RoninDojo + Electrum Desktop + Coldcard**
 
-1.  Setup your [Coldcard](https://coldcardwallet.com/docs/quick)
+1.  Set up your [Coldcard](https://coldcardwallet.com/docs/quick)
 2.  Assemble your RoninDojo node [hardware](https://wiki.ronindojo.io/en/hardware)
 3.  Flash SD card then insert into device
 4.  Complete Manjaro setup
@@ -91,7 +91,7 @@ There are plenty of other hardware wallet and node combinations, most will requi
 
 * If you have just coinjoined some of your bitcoin and are keen to get it sent off to cold storage, be mindful of how you construct your transaction. Merging UTXO's shows common ownership to anyone watching on chain.
 
-* When getting any form of bitcoin related hardware delivered you are suceptable to supply chain attack. This means that an attacker could intercept the package and swap it out with a malicious device designed to steal your bitcoin. Whilst this is unlikely, it is something worth taking into account when setting up your devices. Ensure you follow the check procedures outlined by the product manufacturer when you receive. 
+* When getting any form of bitcoin related hardware delivered you are suceptible to supply chain attack. This means that an attacker could intercept the package and swap it out with a malicious device designed to steal your bitcoin. Whilst this is unlikely, it is something worth taking into account when setting up your devices. Ensure you follow the check procedures outlined by the product manufacturer when you receive. 
 
 * Another thing worth considering is your payment method and delivery address. You can buy no-KYC bitcoin in cash from a meetup for maximum privacy, but if you buy a Coldcard from Coinkite (a public bitcoin company) using your credit card and have it delivered to your home address you certainly giving away some clues!
 

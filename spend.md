@@ -27,19 +27,19 @@ Spending your bitcoin can be a tricky task to get right from a privacy perspecti
 
 * Stonewall
 
-Stonewall builds your transaction in a unique way to increase the deniability of links between the sender and recipient. Once the spending conditions are met the wallet will create this type of transaction automatically and will display the level of entropy the proposed transaction will have. Stonewall is actually a ‘fake’ mini coin join using only your own UTXO’s. STONEWALL can be created from your deposit or postmix accounts, but the algorithm will never mix UTXO's from those accounts together.
+Stonewall builds your transaction in a unique way to increase the deniability of links between the sender and recipient. Once the spending conditions are met the wallet will create this type of transaction automatically and will display the level of entropy the proposed transaction will have. Stonewall is actually a 'fake' mini coin join using only your own UTXOs. STONEWALL can be created from your deposit or postmix accounts, but the algorithm will never mix UTXOs from those accounts together.
 
 **Useful for** - Any type of spend
 
 * Stonewall X2
 
-Stonewall X2 creates a mini coin join with another Samourai user. It mixes some of both Samourai users UTXO’s when paying to any third party to create a high entropy transaction. You don’t even need to be in the same room as your fellow Samourai user to create a Stonewall X2 as you can simply share QR codes via encrypted chat.
+Stonewall X2 creates a mini coin join with another Samourai user. It mixes some of both Samourai users UTXOs when paying to any third party to create a high entropy transaction. You don't even need to be in the same room as your fellow Samourai user to create a Stonewall X2 as you can simply share QR codes via encrypted chat.
 
 **Useful for** - Any type of spend
 
 * Stowaway
 
-Stowaway is Samourai’s implementation of Payjoin. When paying another trusted Samourai user it creates a transaction that looks just like any other Bitcoin transaction on chain but, it’s actually a form of mini coin join. The most powerful thing about Stowaway is that the amount being sent will never actually be visible to anyone looking at the blockchain. Stowaway also uses sender AND recipient UTXO’s on the input side of the transaction which completely destroys the common-input ownership heuristic for chain analysis firms. Just like Stonewall X2, Stowaway can be constructed in person or remotely.
+Stowaway is Samourai's implementation of Payjoin. When paying another trusted Samourai user it creates a transaction that looks just like any other Bitcoin transaction on chain but it's actually a form of mini coin join. The most powerful thing about Stowaway is that the amount being sent will never actually be visible to anyone looking at the blockchain. Stowaway also uses sender AND recipient UTXOs on the input side of the transaction which completely destroys the common-input ownership heuristic for chain analysis firms. Just like Stonewall X2, Stowaway can be constructed in person or remotely.
 
 **Useful for** - Spending to another Samourai user
 

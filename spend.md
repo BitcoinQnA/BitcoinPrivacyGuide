@@ -4,6 +4,8 @@ layout: default
 
 [![bitcoinerheader](https://raw.githubusercontent.com/BitcoinQnA/BitcoinPrivacyGuide/master/assets/images/BPDG.png)](https://bitcoinprivacy.guide)
 
+<br/>
+
 ## Spending your Bitcoin
 
 ### Table of Contents

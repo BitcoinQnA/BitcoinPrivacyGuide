@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-<br/>
+
+[![bitcoinerheader](https://raw.githubusercontent.com/BitcoinQnA/BitcoinPrivacyGuide/master/assets/images/BPDG.png)](https://bitcoinprivacy.guide)
 
 ## Safeguarding your Bitcoin
 

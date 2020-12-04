@@ -78,6 +78,6 @@ Privacy focused forks of Android with google services removed.
   
 <p align="center">
   <a href="https://twitter.com/BitcoinQ_A">Guide by Bitcoin Q+A</a> |
-  <a href="https://btcpayjungle.com/apps/2kYZPktoVSxfp4fWaZjcbnbPpCut/pos">Support</a>
+  <a href="https://bqa.duckdns.org:20486/apps/96ZvtoJQr9bz5QyeDoUfhkmNTLZ/pos">Support</a>
   <br><br>
 </p>

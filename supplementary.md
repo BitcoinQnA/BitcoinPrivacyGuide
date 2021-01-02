@@ -29,6 +29,7 @@ layout: default
 A VPN provides privacy by 'tunneling' your web traffic to a different server which is generally located somewhere in a different country. Whilst this does prevent your ISP from spying on your online activity, you do place some trust in the VPN server you are connecting to.
 
 * [Mullvad](https://mullvad.net/en/)
+* [ProtonVPN](https://protonvpn.com/)
 
 ### Messaging
 

@@ -36,9 +36,7 @@ A VPN provides privacy by 'tunneling' your web traffic to a different server whi
 Communication services that use encryption to avoid spying.
 
 * [Signal](https://signal.org/en/)
-
 * [Keybase](https://keybase.io/)
-
 * [Telegram](https://telegram.org/) (*Use secret chats*)
 
 
@@ -47,7 +45,6 @@ Communication services that use encryption to avoid spying.
 E-mail services that use encryption to avoid spying.
 
 * [Proton Mail](https://protonmail.com/)
-
 * [Tutanota](https://tutanota.com/)
 
 
@@ -57,7 +54,7 @@ Privacy focused forks of Android with google services removed.
 
 * [Graphene OS](https://grapheneos.org/)
    * [Guide](https://www.youtube.com/watch?v=oO0UFZjuotg)
- 
+
 * [Copperhead OS](https://copperhead.co/android/)
    * [Purchase](https://mamushi.io/)
 
@@ -71,7 +68,6 @@ Privacy focused forks of Android with google services removed.
 ### Other
 
 * [Standard Notes](https://standardnotes.org/) - Cross platform notes app that uses encryption
-
 * [Tails OS](https://tails.boum.org/) - Portable OS that boots from a USB stick 
 
 

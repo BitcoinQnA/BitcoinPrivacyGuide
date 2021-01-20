@@ -69,7 +69,7 @@ Privacy focused forks of Android with google services removed.
 
 * [Standard Notes](https://standardnotes.org/) - Cross platform notes app that uses encryption
 * [Tails OS](https://tails.boum.org/) - Portable OS that boots from a USB stick 
-
+* [Open Keychain](https://www.openkeychain.org/) - PGP key manager and encryption tool
 
   ***
   

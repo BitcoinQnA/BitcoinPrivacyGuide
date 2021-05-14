@@ -49,6 +49,12 @@ E-mail services that use encryption to avoid spying.
 
 * [Proton Mail](https://protonmail.com/)
 * [Tutanota](https://tutanota.com/)
+* [Ctemplar](https://ctemplar.com)
+
+E-mail forwarding/alias services to avoid sharing your real email:
+
+*[Simple Login](https://simplelogin.io)
+*[Nullbox](https://nullbox.co)
 
 
 ### Phones

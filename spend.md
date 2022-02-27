@@ -16,7 +16,7 @@ layout: default
 
 ### Spending considerations
 
-Spending your bitcoin can be a tricky task to get right from a privacy perspective. Fortunately if you have followed the previous steps you are in a perfect position to nail it. We have already covered off many of the pitfalls such as merging UTXOs, particularly those from 'conflicting' sources such as KYC and no-KYC but here is a breif rundown of things to consider when spending bitcoin (even to yourself).
+Spending your bitcoin can be a tricky task to get right from a privacy perspective. Fortunately if you have followed the previous steps you are in a perfect position to nail it. We have already covered off many of the pitfalls such as merging UTXOs, particularly those from 'conflicting' sources such as KYC and no-KYC but here is a brief rundown of things to consider when spending bitcoin (even to yourself).
 
 * Check your labels before spending
 * Avoid merging UTXOs where possible

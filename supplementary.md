@@ -53,8 +53,8 @@ E-mail services that use encryption to avoid spying.
 
 E-mail forwarding/alias services to avoid sharing your real email:
 
-*[Simple Login](https://simplelogin.io)
-*[Nullbox](https://nullbox.co)
+* [Simple Login](https://simplelogin.io)
+* [Nullbox](https://nullbox.co)
 
 
 ### Phones

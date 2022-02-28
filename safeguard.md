@@ -20,7 +20,7 @@ layout: default
 
 ### Why safeguard?
 
-So far all we have discussed are mobile wallets that favour convenience because they are internet connected devices that allow you quick and easy access to your bitcoin. The drawback with convenience is that interenet connected devices bring their own exposure which may not be desireable if you are storing larger amounts of bitcoin. So how can we safeguard that bitcoin in a more secure way?
+So far all we have discussed are mobile wallets that favour convenience because they are internet connected devices that allow you quick and easy access to your bitcoin. The drawback with convenience is that internet connected devices bring their own exposure which may not be desireable if you are storing larger amounts of bitcoin. So how can we safeguard that bitcoin in a more secure way?
 
 Cold storage refers to a method of bitcoin storage that has never touched the internet. For most users this takes the form of a hardware wallet which is a dedicated device designed with one aim, to generate and secure your private keys. When looking for a cold storage method, look for 'air gapped' devices like the [Coldcard](https://coldcardwallet.com/) or [Cobo Vault](https://cobo.com/hardware-wallet/cobo-vault). These devices never need to be plugged into your *potentially* malware infected computer to sign transactions and allow you to spend your bitcoin, adding a huge layer of protection from attack.    
 
@@ -94,9 +94,9 @@ There are plenty of other hardware wallet and node combinations, most will requi
 
 * If you have just coinjoined some of your bitcoin and are keen to get it sent off to cold storage, be mindful of how you construct your transaction. Merging UTXO's shows common ownership to anyone watching on chain.
 
-* When getting any form of bitcoin related hardware delivered you are suceptible to supply chain attack. This means that an attacker could intercept the package and swap it out with a malicious device designed to steal your bitcoin. Whilst this is unlikely, it is something worth taking into account when setting up your devices. Ensure you follow the check procedures outlined by the product manufacturer when you receive. 
+* When getting any form of bitcoin related hardware delivered you are susceptible to supply chain attack. This means that an attacker could intercept the package and swap it out with a malicious device designed to steal your bitcoin. Whilst this is unlikely, it is something worth taking into account when setting up your devices. Ensure you follow the check procedures outlined by the product manufacturer when you receive. 
 
-* Another thing worth considering is your payment method and delivery address. You can buy no-KYC bitcoin in cash from a meetup for maximum privacy, but if you buy a Coldcard from Coinkite (a public bitcoin company) using your credit card and have it delivered to your home address you certainly giving away some clues!
+* Another thing worth considering is your payment method and delivery address. You can buy no-KYC bitcoin in cash from a meetup for maximum privacy, but if you buy a Coldcard from Coinkite (a public bitcoin company) using your credit card and have it delivered to your home address you're certainly giving away some clues!
 
   
   ***

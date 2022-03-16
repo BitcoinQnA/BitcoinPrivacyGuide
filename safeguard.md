@@ -22,7 +22,21 @@ layout: default
 
 So far all we have discussed are mobile wallets that favour convenience because they are internet connected devices that allow you quick and easy access to your bitcoin. The drawback with convenience is that internet connected devices bring their own exposure which may not be desireable if you are storing larger amounts of bitcoin. So how can we safeguard that bitcoin in a more secure way?
 
-Cold storage refers to a method of bitcoin storage that has never touched the internet. For most users this takes the form of a hardware wallet which is a dedicated device designed with one aim, to generate and secure your private keys. When looking for a cold storage method, look for 'air gapped' devices like the [Coldcard](https://coldcardwallet.com/) or [Cobo Vault](https://cobo.com/hardware-wallet/cobo-vault). These devices never need to be plugged into your *potentially* malware infected computer to sign transactions and allow you to spend your bitcoin, adding a huge layer of protection from attack.    
+Cold storage refers to a method of bitcoin storage that has never touched the internet. For most users this takes the form of a hardware wallet which is a dedicated device designed with one aim, to generate and secure your private keys. When looking for a cold storage method, look for 'air gapped' devices like the [Coldcard](https://coldcardwallet.com/) or [Cobo Vault](https://cobo.com/hardware-wallet/cobo-vault). These devices never need to be plugged into your *potentially* malware infected computer to sign transactions and allow you to spend your bitcoin, adding a huge layer of protection from attack.
+
+### Samourai DIY Cold Storage Version
+
+**Samourai Wallet + Airgapped Android device // Sentinel + Online Android device**
+
+1. Download [Samourai Wallet APK](https://samouraiwallet.com/download) or [build from source](https://code.samourai.io/wallet/samourai-wallet-android)
+2. Download [Sentinel APK](https://samouraiwallet.com/download) or [build from source](https://code.samourai.io/wallet/sentinel-android)
+3. Install Sentinel on your online Android device
+2. Transfer Samourai Wallet APK to your airgapped Android device via USB
+5. Install Samourai Wallet & select "Start New Wallet" to create new offline wallet
+6. From main balance screen tap the 3 dots >> Settings >> Wallet
+7. Select & scan X/Y/Z PUBs from offline wallet into online Sentinel
+8. Use Sentinel to view balance, receive payments, compose & broadcast PSBT txs
+9. Use offline Samourai Wallet to sign PSBT txs for offline spending
 
 ### Desktop Node Version
 

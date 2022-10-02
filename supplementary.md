@@ -37,6 +37,7 @@ Communication services that use encryption to avoid spying.
 
 * [Signal](https://signal.org/en/)
 * [Keybase](https://keybase.io/)
+* [Session](https://getsession.org/)
 * [Telegram](https://telegram.org/) (*Use secret chats*)
 * [Matrix](https://matrix.org/)
 * [Threema](https://threema.ch/en)

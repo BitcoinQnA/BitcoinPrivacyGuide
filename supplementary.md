@@ -74,6 +74,7 @@ Privacy focused forks of Android with google services removed.
 ### Password managers
 
 *  [Bitwarden](https://bitwarden.com/)
+*  [KeePass](https://keepass.info/)
 
 ### Other
 
